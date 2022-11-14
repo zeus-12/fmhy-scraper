@@ -1,0 +1,3277 @@
+[
+  {
+    "title": "Adblocking",
+    "links": [
+      {
+        "title": "Can You Block It?, AdBlock Tester, AdBlocker Test or AmIUnique - Adblocking Tests",
+        "link": [
+          "https://canyoublockit.com/",
+          "https://adblock-tester.com/",
+          "https://d3ward.github.io/toolz/adblock.html",
+          "https://amiunique.org/fp"
+        ],
+        "starred": true
+      },
+      {
+        "title": "Spotify Adblockers - Block Spotify Ads",
+        "link": [
+          "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools"
+        ],
+        "starred": true
+      },
+      {
+        "title": "YouTube Frontends - Ad-Free YouTube Frontends / Desktop Clients",
+        "link": [
+          "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends"
+        ],
+        "starred": true
+      },
+      {
+        "title": "YouT-ube - Ad-Free YouTube Web Player",
+        "link": ["https://www.yout-ube.com/"],
+        "starred": false
+      },
+      {
+        "title": "Simple Opt Out - Turn off Targeted Ads",
+        "link": ["https://simpleoptout.com/"],
+        "starred": false
+      },
+      {
+        "title": "Privaxy - Adblocking App",
+        "link": ["https://github.com/Barre/privaxy"],
+        "starred": false
+      }
+    ],
+    "subCategory": [
+      {
+        "title": "Adblocking Extensions",
+        "links": [
+          {
+            "title": "uBlock Origin - Adblocker / Guide / Lite",
+            "link": [
+              "https://github.com/gorhill/uBlock#installation",
+              "https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/",
+              "https://github.com/gorhill/uBlock/releases?q=uBOLite"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Adblock Filters - Filters for Adblockers / Test Filters / Merge Filters",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters",
+              "http://raymondhill.net/ublock/adbox.html",
+              "https://realityripple.com/Tools/AdBlock++/"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Adblock Defenders - Prevent Sites from Detecting Adblockers / Test Defenders, 2",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders",
+              "https://blockads.fivefilters.org/",
+              "https://www.detectadblock.com/"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Twitch Adblockers - Block Twitch Ads",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Redirect Skippers - Bypass Redirects / Skip Timers / Additional Bypass",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect",
+              "https://greasyfork.org/en/scripts/372673",
+              "https://greasyfork.org/en/scripts/443888"
+            ],
+            "starred": true
+          },
+          {
+            "title": "SponsorBlock - Skip Sponsored YouTube Ads / Chromecast",
+            "link": [
+              "https://sponsor.ajay.app/",
+              "https://github.com/nichobi/sponsorblockcast"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Popup Blockers - Block Malicious Popups / Tabs",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links"
+            ],
+            "starred": true
+          },
+          {
+            "title": "BehindTheOverlay, Demodal, f ck overlays or Behind The Overlay Revival - Hide Website Overlays",
+            "link": [
+              "https://github.com/NicolaeNMV/BehindTheOverlay",
+              "https://addons.mozilla.org/firefox/addon/demodal",
+              "https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp/related",
+              "https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/"
+            ],
+            "starred": true
+          },
+          {
+            "title": "OpenVideo or Stream-Bypass - Play Videos in Ad-Free Player",
+            "link": [
+              "https://openvideofs.github.io",
+              "https://github.com/ByteDream/stream-bypass"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Fakespot - Identifies Fake Reviews / Counterfeits",
+            "link": ["https://www.fakespot.com/"],
+            "starred": true
+          },
+          {
+            "title": "Adguard - Adblocker / Guide / Unblock Search Ads",
+            "link": [
+              "https://github.com/AdguardTeam/AdguardBrowserExtension#installation",
+              "https://rentry.co/adblock",
+              "https://filters.adtidy.org/extension/chromium/filters/10.txt"
+            ],
+            "starred": false
+          },
+          {
+            "title": "AdNauseam - Adblocker / Fakes Clicks to Confuse Tracking",
+            "link": ["https://adnauseam.io/"],
+            "starred": false
+          },
+          {
+            "title": "TBlock - Adblocker",
+            "link": ["https://tblock.codeberg.page/"],
+            "starred": false
+          },
+          {
+            "title": "Facebook Hide Ads - Remove Sponsored Posts from Facebook",
+            "link": [
+              "https://greasyfork.org/en/scripts/404309-facebook-hide-ads-a-k-a-sponsored-posts"
+            ],
+            "starred": false
+          },
+          {
+            "title": "uBO-YouTube - YouTube Channel Whitelist",
+            "link": ["https://github.com/x0a/uBO-YouTube"],
+            "starred": false
+          },
+          {
+            "title": "LinkedIn Unsponsored - Remove Sponsored Posts from LinkedIn",
+            "link": [
+              "https://greasyfork.org/en/scripts/379003-linkedin-unsponsored"
+            ],
+            "starred": false
+          },
+          {
+            "title": "JustRead - Ad-Free Article Viewer",
+            "link": ["https://justread.link/"],
+            "starred": false
+          },
+          {
+            "title": "WhoTargetsMe - Political Ad Tracker",
+            "link": ["https://whotargets.me/"],
+            "starred": false
+          }
+        ]
+      },
+      {
+        "title": "DNS Adblocking",
+        "links": [
+          {
+            "title": "DNS Providers - DNS Provider Index",
+            "link": ["https://kb.adguard.com/en/general/dns-providers"],
+            "starred": true
+          },
+          {
+            "title": "DNS Filters - DNS Host File Blocking",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters"
+            ],
+            "starred": true
+          },
+          {
+            "title": "AdGuard Home - DNS Adblocking / Self-Hosted / Setup / Family Filter / Filters",
+            "link": [
+              "https://github.com/AdguardTeam/AdGuardHome/wiki/Docker",
+              "https://github.com/klutchell/balena-adguard",
+              "https://ammnt.app/",
+              "https://github.com/hl2guide/AdGuard-Home-Whitelist"
+            ],
+            "starred": true
+          },
+          {
+            "title": "ahadns - DNS Adblocking",
+            "link": ["https://ahadns.com/"],
+            "starred": true
+          },
+          {
+            "title": "Mullvad DNS - DNS Adblocking",
+            "link": [
+              "https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/"
+            ],
+            "starred": true
+          },
+          {
+            "title": "YogaDNS - DNS Adblocking",
+            "link": ["https://yogadns.com/"],
+            "starred": true
+          },
+          {
+            "title": "Adguard DNS - DNS Adblocking",
+            "link": ["https://adguard-dns.io/"],
+            "starred": false
+          },
+          {
+            "title": "Pi-Hole - DNS Adblocking / Self-Hosted / Install Script / Filter, 2 / Firefox / Chrome / Docker / Antitelemetry",
+            "link": [
+              "https://pi-hole.net/",
+              "https://github.com/DesktopECHO/Pi-Hole-for-WSL1",
+              "https://firebog.net/",
+              "https://github.com/hl2guide/Filterlist-for-AdGuard",
+              "https://addons.mozilla.org/en-US/firefox/addon/alanine/",
+              "https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi",
+              "https://hub.docker.com/repository/docker/kulda22/alanine",
+              "https://github.com/MoralCode/pihole-antitelemetry"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Blah DNS - DNS Adblocking",
+            "link": ["https://blahdns.com/"],
+            "starred": false
+          },
+          {
+            "title": "Rethink - DNS Adblocking",
+            "link": ["https://rethinkdns.com/"],
+            "starred": false
+          },
+          {
+            "title": "AlternateDNS - DNS Adblocking",
+            "link": ["https://alternate-dns.com/index.php"],
+            "starred": false
+          },
+          {
+            "title": "LibreDNS - DNS Adblocking",
+            "link": ["https://libredns.gr/"],
+            "starred": false
+          },
+          {
+            "title": "Diversion - DNS Adblocking",
+            "link": ["https://diversion.ch/"],
+            "starred": false
+          },
+          {
+            "title": "DNS Watch - DNS Adblocking",
+            "link": ["https://dns.watch/"],
+            "starred": false
+          },
+          {
+            "title": "dog - DNS CLI",
+            "link": ["https://dns.lookup.dog/"],
+            "starred": false
+          },
+          {
+            "title": "Quad9 - Malware, Phishing, Spyware & Botnet DNS Protection",
+            "link": ["https://quad9.net/"],
+            "starred": false
+          },
+          {
+            "title": "Stubby - DNS Stub Resolver",
+            "link": ["https://github.com/getdnsapi/stubby"],
+            "starred": false
+          },
+          {
+            "title": "NextDNS - DNS Adblocking / Leak Warning / Guide / Enhancement / Extension",
+            "link": [
+              "https://nextdns.io",
+              "https://redd.it/jt28e8",
+              "https://github.com/yokoffing/NextDNS-Config",
+              "https://greasyfork.org/en/scripts/408934-nx-enhanced",
+              "https://chrome.google.com/webstore/detail/nx-enhanced/ljimbekophocjbnphldoaidgkkaojcfo"
+            ],
+            "starred": false
+          },
+          {
+            "title": "DuckDNS, FreeDNS, NoIP, FreeMyIP or Desec - Dynamic DNS Service",
+            "link": [
+              "https://www.duckdns.org/",
+              "https://freedns.afraid.org/",
+              "https://www.noip.com/",
+              "https://freemyip.com/",
+              "https://desec.io/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Encrypted DNS Resolvers",
+            "link": ["https://www.privacytools.io/providers/dns/"],
+            "starred": false
+          },
+          {
+            "title": "DNS Resolver Privacy-First or 1.1.1.1 / Unlimited Data / Plus - DNS Resolver",
+            "link": [
+              "http://doh.tiar.app/",
+              "https://1.1.1.1/",
+              "https://rentry.co/WarpKeyGen",
+              "https://github.com/ALIILAPRO/warp-plus-cloudflare"
+            ],
+            "starred": false
+          },
+          {
+            "title": "ControlD, DNS Jumper or Hetzner - DNS Manager",
+            "link": [
+              "https://controld.com/",
+              "https://sordum.org/7952/dns-jumper-v2-1/",
+              "https://www.hetzner.com/dns-console?country=us"
+            ],
+            "starred": false
+          },
+          {
+            "title": "block.js - DNS YouTube Blocklists",
+            "link": [
+              "https://gist.github.com/rtfpessoa/7fdd3d4121ee4acafe56e8425154888a"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Phishing Army - DNS Phishing Blocklist",
+            "link": ["https://phishing.army/"],
+            "starred": false
+          },
+          {
+            "title": "BIND - Portable DNS Protocol",
+            "link": ["https://gitlab.isc.org/isc-projects/bind9"],
+            "starred": false
+          },
+          {
+            "title": "Maza - Local DNS Adblocking",
+            "link": ["https://maza-ad-blocking.andros.dev/"],
+            "starred": false
+          },
+          {
+            "title": "DNS Party - DNS Config Profiles for Apple Devices Encrypted",
+            "link": ["https://encrypted-dns.party/"],
+            "starred": false
+          },
+          {
+            "title": "Samsung Smart TV Adblock - Block Smart TV Ads",
+            "link": ["https://redd.it/gn7fw5"],
+            "starred": false
+          },
+          {
+            "title": "ZoneWatcher - DNS Backup Tool",
+            "link": ["https://zonewatcher.com/"],
+            "starred": false
+          },
+          {
+            "title": "DNS Redirector - DNS Redirector",
+            "link": ["http://dnsredirector.com/"],
+            "starred": false
+          },
+          {
+            "title": "Free DNS Servers",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Technitium or Trust DNS - Self-Hosted DNS Server",
+            "link": [
+              "https://technitium.com/dns",
+              "https://github.com/bluejekyll/trust-dns"
+            ],
+            "starred": false
+          },
+          {
+            "title": "DNS Perf or NameBench - DNS Speed Tests",
+            "link": [
+              "https://dnsperf.com/dns-speed-benchmark",
+              "https://code.google.com/archive/p/namebench/"
+            ],
+            "starred": false
+          }
+        ]
+      },
+      { "title": "Linux Adblocking", "links": [] },
+      { "title": "Mac Adblocking", "links": [] },
+      { "title": "Android Adblocking", "links": [] },
+      { "title": "iOS Adblocking", "links": [] }
+    ]
+  },
+  {
+    "title": "Antivirus",
+    "links": [
+      {
+        "title": "Awesome Malware Analysis - Malware Analysis Tools / Resources",
+        "link": ["https://github.com/rshipp/awesome-malware-analysis"],
+        "starred": true
+      },
+      {
+        "title": "How to Avoid Malware - Malware Avoidance Guide",
+        "link": [
+          "https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide"
+        ],
+        "starred": true
+      },
+      {
+        "title": "How to Remove Malware - Malware Removal Guide",
+        "link": ["https://redd.it/33evdi"],
+        "starred": true
+      },
+      {
+        "title": "Antivirus Programs - Virus Protection & Scanning",
+        "link": [
+          "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_antivirus"
+        ],
+        "starred": true
+      },
+      {
+        "title": "AdwCleaner or Ultra Adware Killer - Anti-Adware",
+        "link": [
+          "https://www.malwarebytes.com/adwcleaner/",
+          "https://www.carifred.com/ultra_adware_killer/"
+        ],
+        "starred": true
+      },
+      {
+        "title": "Virus File Scanners - Scan Files",
+        "link": [
+          "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files"
+        ],
+        "starred": true
+      },
+      {
+        "title": "Hybrid Analysis or Amnpardaz - Scan EXE Files",
+        "link": [
+          "https://www.hybrid-analysis.com/",
+          "https://jevereg.amnpardaz.com/"
+        ],
+        "starred": true
+      },
+      {
+        "title": "Site Legitimacy Check - URL Scanners",
+        "link": [
+          "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check"
+        ],
+        "starred": true
+      },
+      {
+        "title": "RevealQR - Scan QR Codes",
+        "link": ["https://revealqr.app/"],
+        "starred": false
+      },
+      {
+        "title": "Security / Antivirus Multireddit",
+        "link": ["https://old.reddit.com/user/goretsky/m/security/"],
+        "starred": false
+      },
+      {
+        "title": "VToncolab - How-to Scan Files with Google Colab",
+        "link": ["https://rentry.org/vtoncolab"],
+        "starred": false
+      },
+      {
+        "title": "MSRT - x64 / x86 - Malicious Software Removal Tool",
+        "link": [
+          "https://www.microsoft.com/en-us/download/details.aspx?id=9905",
+          "https://www.microsoft.com/en-us/download/details.aspx?id=16"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Win10 Firewall Control, pfSense / How-to, PeerBlock, Tinywall or GlassWire - Firewall / Network Monitor",
+        "link": [
+          "http://www.sphinx-soft.com/Vista/index.html",
+          "https://www.pfsense.org/",
+          "https://youtu.be/am7xT-zU1Q0",
+          "https://www.peerblock.com/",
+          "https://tinywall.pados.hu/",
+          "https://www.glasswire.com/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Pi.Alert, Zeek, Nmap / Results, Kismet, ntop, Rotty or Safing - Network Monitors",
+        "link": [
+          "https://github.com/pucherot/Pi.Alert",
+          "https://zeek.org/",
+          "https://nmap.org/",
+          "https://nmap.org/ndiff/",
+          "https://www.kismetwireless.net/",
+          "http://www.ntop.org/",
+          "https://github.com/RoseSecurity/Rotty.py",
+          "https://safing.io/portmaster/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Waircut - WPS Network Monitor",
+        "link": ["https://sourceforge.net/projects/waircut/"],
+        "starred": false
+      },
+      {
+        "title": "Hardentools - Disables Risky Windows Features",
+        "link": ["https://github.com/securitywithoutborders/hardentools"],
+        "starred": false
+      },
+      {
+        "title": "Unchecky - Clears Software Installation Checkboxes",
+        "link": ["https://unchecky.com/"],
+        "starred": false
+      },
+      {
+        "title": "Emergency Kit or DrWeb - No Install Required Antivirus",
+        "link": [
+          "https://www.emsisoft.com/en/home/emergencykit/",
+          "https://free.drweb.com/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Should I Remove It? - Easily Find & Remove Adware, Spyware etc.",
+        "link": ["https://www.shouldiremoveit.com/"],
+        "starred": false
+      },
+      {
+        "title": "Rewind - Immediate Virus Infection Counter Measures",
+        "link": ["https://github.com/Neo23x0/Rewind"],
+        "starred": false
+      },
+      {
+        "title": "Spybot or SUPERAntiSpyware - Anti-spyware",
+        "link": [
+          "https://www.safer-networking.org/products/spybot-free-edition/",
+          "https://www.superantispyware.com/free-edition.html"
+        ],
+        "starred": false
+      },
+      {
+        "title": "VT4Browsers - Easily Scan Downloads",
+        "link": [
+          "https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Any Run, Malware Initial Assessment, Intezer Analyze or Cuckoo - Malware Analysis Tool",
+        "link": [
+          "https://app.any.run/",
+          "https://www.winitor.com/",
+          "https://analyze.intezer.com/",
+          "https://cuckoosandbox.org/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "GetsUsp or Wise Anti-Malware - Malware Detection",
+        "link": [
+          "https://www.mcafee.com/enterprise/en-us/downloads/free-tools/getsusp.html",
+          "https://www.wisecleaner.com/wise-anti-malware.html"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Safety Scanner or Power Eraser - Malware Remover",
+        "link": [
+          "https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download",
+          "https://support.norton.com/sp/static/external/tools/npe.html"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Al-Khaser - Anti-Malware Stress Test",
+        "link": ["https://github.com/LordNoteworthy/al-khaser"],
+        "starred": false
+      },
+      {
+        "title": "WireShark - Network Protocol Analyzer",
+        "link": ["https://www.wireshark.org/"],
+        "starred": false
+      },
+      {
+        "title": "PacketTotal - PCAP / Network Analysis",
+        "link": ["https://packettotal.com/"],
+        "starred": false
+      },
+      {
+        "title": "should-i-trust - Evaluates OSINT Signals for a Domain",
+        "link": ["https://github.com/ericalexanderorg/should-i-trust"],
+        "starred": false
+      },
+      {
+        "title": "SecurityHeaders - Security Header Scan",
+        "link": ["https://securityheaders.com/"],
+        "starred": false
+      },
+      {
+        "title": "Penteract Disguised - Prevent Automatic Keyboard Attacks",
+        "link": [
+          "https://apps.microsoft.com/store/detail/penteract-disguisedkeyboard-detector-2/9P7FV5575G0C?hl=en-in&gl=IN"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Phish.ly - Scan Suspicious Emails",
+        "link": ["https://phish.ly/"],
+        "starred": false
+      },
+      {
+        "title": "Any.Run - Interactive Malware Sandbox",
+        "link": ["https://any.run/"],
+        "starred": false
+      },
+      {
+        "title": "testsafebrowsing - Safe Browsing Testing Links",
+        "link": ["https://testsafebrowsing.appspot.com/"],
+        "starred": false
+      },
+      {
+        "title": "Standaloneinstaller - Check Software Safety",
+        "link": ["https://standaloneinstaller.com/"],
+        "starred": false
+      },
+      {
+        "title": "Dangerzone - Convert dangerous PDF to safe PDF",
+        "link": ["https://dangerzone.rocks/"],
+        "starred": false
+      },
+      {
+        "title": "ThreatMap - Live Malware Distribution Map",
+        "link": ["https://threatmap.checkpoint.com/"],
+        "starred": false
+      },
+      {
+        "title": "VirusShare or Malpedia - Malware Search",
+        "link": [
+          "https://virusshare.com/",
+          "https://malpedia.caad.fkie.fraunhofer.de/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "X-Force Exchange - Security Threat Intelligence Platform",
+        "link": ["https://exchange.xforce.ibmcloud.com/"],
+        "starred": false
+      },
+      {
+        "title": "CVE Details - CVE Details",
+        "link": ["https://www.cvedetails.com/"],
+        "starred": false
+      },
+      {
+        "title": "Web Of Trust, Talos or ScamRate - Check Website Safety",
+        "link": [
+          "https://www.mywot.com/",
+          "https://talosintelligence.com/",
+          "https://www.scamrate.com/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "ThreatLog - Malicious Domain Database",
+        "link": ["https://www.threatlog.com/"],
+        "starred": false
+      },
+      {
+        "title": "Toxic Repos - Malicious Git Repos",
+        "link": ["https://github.com/stravnik/toxic-repos"],
+        "starred": false
+      },
+      {
+        "title": "Scamalytics, IPSpamList or IP Address Lookup - IP Address Check",
+        "link": [
+          "https://scamalytics.com/ip",
+          "http://www.ipspamlist.com/",
+          "https://www.ipqualityscore.com/free-ip-lookup-proxy-vpn-test/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Vulners - Chrome / Firefox - Live Website Scanner",
+        "link": [
+          "https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd",
+          "https://addons.mozilla.org/es/firefox/addon/vulners-web-scanner/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "SpyOffers - Affiliate Link Checker",
+        "link": ["https://www.spyoffers.com/"],
+        "starred": false
+      },
+      {
+        "title": "BitcoinWhosWho - Bitcoin Address Scanner",
+        "link": ["https://www.bitcoinwhoswho.com/"],
+        "starred": false
+      },
+      {
+        "title": "Virus Checker - Virus Check for Downloads",
+        "link": ["https://add0n.com/virus-checker.html"],
+        "starred": false
+      },
+      {
+        "title": "Bad Websites - Phishing Site Index for Bots",
+        "link": ["https://github.com/elbkr/bad-websites"],
+        "starred": false
+      },
+      {
+        "title": "No More Ransom - Bypass Ransomware Attacks",
+        "link": ["https://www.nomoreransom.org/en/decryption-tools.html"],
+        "starred": false
+      },
+      {
+        "title": "Ransomwhere - Ransomware Tracker",
+        "link": ["https://ransomwhe.re/"],
+        "starred": false
+      },
+      {
+        "title": "ID Ransomware - Ransomware Identification Tool",
+        "link": ["https://id-ransomware.malwarehunterteam.com/"],
+        "starred": false
+      },
+      {
+        "title": "SigThief - Signature Test",
+        "link": ["https://github.com/secretsquirrel/SigThief"],
+        "starred": false
+      },
+      {
+        "title": "YARA - Malware Identification Tool",
+        "link": ["https://virustotal.github.io/yara/"],
+        "starred": false
+      },
+      {
+        "title": "Winitor - EXE Malware Assessment",
+        "link": ["https://www.winitor.com/"],
+        "starred": false
+      },
+      {
+        "title": "WhatsApp Media Decrypt - Decrypt WhatsApp Media Files",
+        "link": ["https://github.com/ddz/whatsapp-media-decrypt"],
+        "starred": false
+      },
+      {
+        "title": "Package Analysis -  Open Source Package Analysis",
+        "link": ["https://github.com/ossf/package-analysis"],
+        "starred": false
+      },
+      {
+        "title": "Manalyzer - PE File Scanner",
+        "link": ["https://manalyzer.org/"],
+        "starred": false
+      },
+      {
+        "title": "PyWhat - .pcap File Scanner",
+        "link": ["https://github.com/bee-san/pyWhat"],
+        "starred": false
+      },
+      {
+        "title": "Awesome Penetration Testing - Penetration Testing Index",
+        "link": ["https://github.com/enaqx/awesome-pentest"],
+        "starred": false
+      },
+      {
+        "title": "Defender Control or KillDefender - Enable / Disable Windows Defender",
+        "link": [
+          "https://www.sordum.org/9480/defender-control-v2-1/",
+          "https://github.com/pwn1sher/KillDefender"
+        ],
+        "starred": false
+      },
+      {
+        "title": "ConfigureDefender - Configure Windows Defender Settings",
+        "link": ["https://github.com/AndyFul/ConfigureDefender"],
+        "starred": false
+      },
+      {
+        "title": "DefenderUI - Improved Windows Defender UI",
+        "link": ["https://www.defenderui.com/"],
+        "starred": false
+      },
+      {
+        "title": "wideredist - Update Windows Defender Definitions Locally",
+        "link": ["https://gitlab.com/urbanware-org/wideredist"],
+        "starred": false
+      },
+      {
+        "title": "Antivirus Removal Tool - Antivirus Software Removal Tool",
+        "link": ["https://antivirus-removal-tool.com/"],
+        "starred": false
+      },
+      {
+        "title": "Malware Search+++ - Malware Search Extension",
+        "link": [
+          "https://addons.mozilla.org/en-US/firefox/addon/malware-search-plusplusplus/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "JShelter - Anti-Malware Extension",
+        "link": ["https://jshelter.org/"],
+        "starred": false
+      },
+      {
+        "title": "VirusTotalAV_bot - Telegram File Scanner",
+        "link": ["https://t.me/VirusTotalAV_bot"],
+        "starred": false
+      },
+      {
+        "title": "Malware Analysis Search",
+        "link": [
+          "https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu"
+        ],
+        "starred": false
+      },
+      {
+        "title": "CVE-2021-44228-Scanner - Log4j2 CVE-2021-44228 Vulnerability Scanner",
+        "link": ["https://github.com/logpresso/CVE-2021-44228-Scanner"],
+        "starred": false
+      }
+    ],
+    "subCategory": []
+  },
+  {
+    "title": "Privacy",
+    "links": [],
+    "subCategory": [
+      {
+        "title": "Privacy Tools",
+        "links": [
+          {
+            "title": "Privacy Tools / Services - Indexes of Privacy Tools / Services",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_tools"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Privacy Matters - Privacy Based Messaging App Comparisons",
+            "link": ["https://www.securemessagingapps.com/"],
+            "starred": true
+          },
+          {
+            "title": "Encrypted Messangers, 2 - Encrypted Messaging Apps",
+            "link": [
+              "https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU",
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers"
+            ],
+            "starred": true
+          },
+          {
+            "title": "SMS Verification Sites - Anonymous Text Verification",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites"
+            ],
+            "starred": true
+          },
+          {
+            "title": "2FA Directory - List of Sites with 2FA Support",
+            "link": ["https://2fa.directory/"],
+            "starred": true
+          },
+          {
+            "title": "Authy, WinAuth or Tauthy - Two-Factor Authentication",
+            "link": [
+              "https://authy.com/",
+              "https://winauth.github.io/winauth/",
+              "https://github.com/pwltr/tauthy"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Password Data Breach Detection",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Password Strength Chart",
+            "link": ["https://i.imgur.com/KSISOPN.png"],
+            "starred": true
+          },
+          {
+            "title": "Cryptomator, Boxcryptor or Tahoe-LAFS - Cloud File Encryption",
+            "link": [
+              "https://cryptomator.org/",
+              "https://www.boxcryptor.com/en/",
+              "https://tahoe-lafs.org/trac/tahoe-lafs"
+            ],
+            "starred": true
+          },
+          {
+            "title": "PaP or How Secure Is My Password? - Password Strength Check",
+            "link": [
+              "https://trypap.com/",
+              "https://howsecureismypassword.net/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "StrongPasswordGenerator, PassSnip, ExpressVPN PW Generator, MOAC, Clover, passwrd or Bitwarden PW Generator - Password Generators",
+            "link": [
+              "https://strongpasswordgenerator.com/",
+              "https://passnip.com/",
+              "https://www.expressvpn.com/password-generator",
+              "https://sr.ht/~seirdy/MOAC/",
+              "https://cloverleaf.app",
+              "https://passwrd.in/#/",
+              "https://bitwarden.com/password-generator/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Authenticator - Generate Two-Factor QR Codes / GitHub",
+            "link": [
+              "https://authenticator.cc/",
+              "https://gitlab.gnome.org/World/Authenticator"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Privacy / Safety Guides - Internet Privacy / Safety Guides",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Open Source Guides - Open Source Guide / GitHub",
+            "link": [
+              "https://opensource.guide/",
+              "https://github.com/github/opensource.guide"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Privacy.Sexy - Privacy Scripts",
+            "link": ["https://privacy.sexy/"],
+            "starred": false
+          },
+          {
+            "title": "Privacy Settings - Privacy Setting Guides",
+            "link": ["https://github.com/the-weird-aquarian/privacy-settings"],
+            "starred": false
+          },
+          {
+            "title": "Smart Sec Cam or ZoneMinder - Security Camera System",
+            "link": [
+              "https://github.com/scottbarnesg/smart-sec-cam",
+              "https://zoneminder.com/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Vault - Data Security Service / GitHub",
+            "link": [
+              "https://www.vaultproject.io/",
+              "https://github.com/hashicorp/vault"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Team Elite or Technet24 - Security Software / Translator",
+            "link": [
+              "https://www.te-home.net/",
+              "https://technet24.ir/",
+              "https://github.com/FilipePS/Traduzir-paginas-web"
+            ],
+            "starred": false
+          },
+          {
+            "title": "awesome-anti-censorship, Your Freedom, Geneva / GitHub, Cloak or FreeBrowser / Wiki - Anti-Censorship Tools",
+            "link": [
+              "https://github.com/danoctavian/awesome-anti-censorship",
+              "https://www.your-freedom.net/",
+              "https://geneva.cs.umd.edu/",
+              "https://github.com/kkevsterrr/geneva",
+              "https://github.com/cbeuw/Cloak",
+              "https://freebrowser.org/",
+              "https://github.com/greatfire/wiki"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Element / Themes, qTox, Utopia, linphone, Jami, Tox, Bitmask or Wickr - Encrypted Messaging / Video Calls",
+            "link": [
+              "https://element.io/",
+              "https://github.com/aaronraimist/element-themes",
+              "https://qtox.github.io/",
+              "https://u.is/en/",
+              "https://www.linphone.org/",
+              "https://jami.net/",
+              "https://tox.chat/",
+              "https://bitmask.net/",
+              "https://wickr.com/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Encrypted XMPP Servers",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers"
+            ],
+            "starred": false
+          },
+          {
+            "title": "SimpleDiscordCrypt - Discord Message Encryption",
+            "link": ["https://gitlab.com/An0/SimpleDiscordCrypt"],
+            "starred": false
+          },
+          {
+            "title": "PGPgram - GPG Encrypted Telegram Backups",
+            "link": ["https://github.com/tallero/PGPgram"],
+            "starred": false
+          },
+          {
+            "title": "Adamant - Decentralized Messenger",
+            "link": ["https://adamant.im/"],
+            "starred": false
+          },
+          {
+            "title": "Hexchat - Private IRC Client",
+            "link": ["https://hexchat.github.io/"],
+            "starred": false
+          },
+          {
+            "title": "ssh-chat - Chat over SSH / Info",
+            "link": [
+              "https://github.com/shazow/ssh-chat",
+              "https://shazow.net/posts/ssh-how-does-it-even/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Windows 10 Antispy Tools",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Privatezilla - Find and fix Windows 10 Privacy / Security Issues",
+            "link": ["https://github.com/builtbybel/privatezilla"],
+            "starred": false
+          },
+          {
+            "title": "simplewall - Configure Windows Filtering Platform / GitHub",
+            "link": [
+              "https://www.henrypp.org/product/simplewall",
+              "https://github.com/henrypp/simplewall"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Big Ass Data Broker Opt-Out List - List of Data Broker Opt-Out Resources",
+            "link": [
+              "https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Blur - Protect Passwords & Personal Information",
+            "link": ["https://dnt.abine.com/"],
+            "starred": false
+          },
+          {
+            "title": "Plain Text Offenders - Sites That Don't Securely Store Passwords",
+            "link": ["https://plaintextoffenders.com/"],
+            "starred": false
+          },
+          {
+            "title": "Gauth - Google Authenticator for Laptops",
+            "link": ["https://github.com/pcarrier/gauth"],
+            "starred": false
+          },
+          {
+            "title": "F-Secure Identity Theft Checker - Identity Theft Check",
+            "link": [
+              "https://www.f-secure.com/en/home/free-tools/identity-theft-checker"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Name & Identity Generators - Generate Fake Names, Identities & Address'",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_name_.26amp.3B_identity_generators"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Random User Generator - Generate Fake User Details",
+            "link": ["https://randomuser.me/"],
+            "starred": false
+          },
+          {
+            "title": "FakePhoneNumber - Generate Fake Phone Numbers",
+            "link": ["https://fakephonenumber.net/"],
+            "starred": false
+          },
+          {
+            "title": "mr.generator - Generate Fake SSN / Driver License / State ID / Passport",
+            "link": ["https://generatormr.com/"],
+            "starred": false
+          },
+          {
+            "title": "Tails or Qubes - Privacy-Based Operating Systems",
+            "link": ["https://tails.boum.org/", "https://www.qubes-os.org/"],
+            "starred": false
+          },
+          {
+            "title": "Track This - Confuse Personal Advertising by opening 100 tabs",
+            "link": ["https://trackthis.link/"],
+            "starred": false
+          },
+          {
+            "title": "Awesome Cryptography - Cryptography Resources",
+            "link": ["https://github.com/sobolevn/awesome-cryptography"],
+            "starred": false
+          },
+          {
+            "title": "Drive Formatting / File Deletion - Wipe / Overwrite Hard Drive Data",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion"
+            ],
+            "starred": false
+          },
+          {
+            "title": "VeraCrypt or CryptSetup - Disk Encryption Software",
+            "link": [
+              "https://www.veracrypt.fr/en/Home.html",
+              "https://gitlab.com/cryptsetup/cryptsetup"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Yubikey Full Disk Encryption - Use YubiKey to unlock a LUKS partition",
+            "link": [
+              "https://github.com/agherzan/yubikey-full-disk-encryption"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Decrypt.Hashhackers - Encrypt / Decrypt GDrive",
+            "link": ["https://decrypt.hashhackers.com/"],
+            "starred": false
+          },
+          {
+            "title": "Wormhole, Vualt.ooo or upload-vaa - Encrypted File Hosts",
+            "link": [
+              "https://wormhole.app/",
+              "https://vault.ooo/",
+              "https://upload.vaa.red/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "boom.fyi - Temporary File Host",
+            "link": ["https://www.boom.fyi/"],
+            "starred": false
+          },
+          {
+            "title": "EncFS MP, Hat, GNUPG, GPG4Win, Encrypto, FreeCrypt, Vmola, Kryptor or Picocrypt - File Encryption Tool",
+            "link": [
+              "https://encfsmp.sourceforge.io/index.html",
+              "https://hat.sh/",
+              "https://gnupg.org/",
+              "https://www.gpg4win.org/",
+              "https://macpaw.com/encrypto",
+              "https://freecrypt.org/",
+              "https://vmola.com/",
+              "https://www.kryptor.co.uk/",
+              "https://github.com/HACKERALERT/Picocrypt"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Filecrypt - Encrypt File Links",
+            "link": ["https://filecrypt.cc/"],
+            "starred": false
+          },
+          {
+            "title": "ProtectedZip - Encrypt Zip Files",
+            "link": ["https://protectedzip.com/"],
+            "starred": false
+          },
+          {
+            "title": "PDFEncrypt - PDF File Encryption",
+            "link": ["https://pdfencrypt.net/"],
+            "starred": false
+          },
+          {
+            "title": "GPGTools - Encrypt & Sign Data / Communications",
+            "link": ["https://gpgtools.org/"],
+            "starred": false
+          },
+          {
+            "title": "CiphersByRitter - Cipher / Encryption Articles",
+            "link": ["http://ciphersbyritter.com/"],
+            "starred": false
+          },
+          {
+            "title": "CacheMonkey - Browse / Clear Cached Images",
+            "link": ["https://www.cachemonkey.app/"],
+            "starred": false
+          },
+          {
+            "title": "HRef - Hide HTTP Referer",
+            "link": ["https://href.li/"],
+            "starred": false
+          },
+          {
+            "title": "Pixelfed or Unsee - Decentralized / Temporary Image Hosts",
+            "link": ["https://pixelfed.org/", "https://unsee.cc/"],
+            "starred": false
+          },
+          {
+            "title": "Cryptee - Encrypted Image Storage",
+            "link": ["https://crypt.ee/"],
+            "starred": false
+          },
+          {
+            "title": "PeerTube, 2, 3 - Decentralized Video Hosting / Instances",
+            "link": [
+              "https://joinpeertube.org/",
+              "https://search.joinpeertube.org/",
+              "https://sepiasearch.org/",
+              "https://instances.joinpeertube.org/instances"
+            ],
+            "starred": false
+          },
+          {
+            "title": "PrivNote, Burn.Link, tlwsd, ThisLinkWillSelfDestruct or OneTimeSecret - Send Self-Destructing Messages",
+            "link": [
+              "https://privnote.com/",
+              "https://burn.link/",
+              "https://tlwsd.com/",
+              "https://thislinkwillselfdestruct.com/",
+              "https://onetimesecret.com/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "xcodx.ru, Steg Cloak or spam mimic - Send Encrypted Text",
+            "link": [
+              "https://xcodx.ru/",
+              "https://stegcloak.surge.sh/",
+              "https://www.spammimic.com/index.cgi"
+            ],
+            "starred": false
+          },
+          {
+            "title": "How-to Buy Bitcoin Anonymously",
+            "link": ["https://coinsutra.com/buy-bitcoin-with-prepaid-card/"],
+            "starred": false
+          },
+          {
+            "title": "USBKill - Anti-Forensic Kill-Switch",
+            "link": ["https://github.com/hephaest0s/usbkill"],
+            "starred": false
+          },
+          {
+            "title": "Free Hide Folder or Wise Folder Hider - Hide Folders / Files",
+            "link": [
+              "https://www.cleanersoft.com/hidefolder/free_hide_folder.htm",
+              "http://www.wisecleaner.com/wise-folder-hider-free.html"
+            ],
+            "starred": false
+          },
+          {
+            "title": "HiddenVM - Run a Oracle VM on TailsOS",
+            "link": ["https://github.com/aforensics/HiddenVM"],
+            "starred": false
+          },
+          {
+            "title": "Mastodon, diaspora / 2, MissKey, Pleroma, Twetch, Manyverse, Friendi or Zotlabs - Decentralized Social Networks",
+            "link": [
+              "https://joinmastodon.org/",
+              "https://diasporafoundation.org/",
+              "https://diasp.org/",
+              "https://join.misskey.page/en/",
+              "https://pleroma.social/",
+              "https://twetch.app/welcome",
+              "https://www.manyver.se/",
+              "https://friendi.ca/",
+              "https://zotlabs.org/page/hubzilla/hubzilla-project"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Mastodon Tools - Instances / Web Client / 2 / Desktop Client, 2 / Account Link / Crosspost / Schedule, 2 / Embedded Feeds / Timelines",
+            "link": [
+              "https://instances.social/",
+              "https://pinafore.social/",
+              "https://mastodon.social/",
+              "https://flathub.org/apps/details/com.github.bleakgrey.tootle",
+              "https://github.com/h3poteto/whalebird-desktop",
+              "https://moa.party/",
+              "https://crossposter.masto.donte.com.br/",
+              "https://scheduler.mastodon.tools/",
+              "https://plan.fedilab.app/",
+              "https://www.mastofeed.com/",
+              "https://mastovue.glitch.me/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Spybot Anti-Beacon - Stop Telemetry Data Leaks",
+            "link": [
+              "https://www.safer-networking.org/products/spybot-anti-beacon/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "IKnowWhatYouDownload - Track Torrent Download Leaks",
+            "link": ["https://iknowwhatyoudownload.com/"],
+            "starred": false
+          },
+          {
+            "title": "Safing - Monitor Network / Block Trackers / GitHub",
+            "link": [
+              "https://safing.io/",
+              "https://github.com/Safing/portmaster"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Undiscord, discord-delete, deleteDiscordMessages or QuickDeleteMessages - Delete Discord Messages / Warning",
+            "link": [
+              "https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion",
+              "https://github.com/adversarialtools/discord-delete",
+              "https://github.com/victornpb/deleteDiscordMessages",
+              "https://u.nu/9i9jk",
+              "https://i.imgur.com/Kt8G430.png"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Spyware Watchdog - Spyware Program Index",
+            "link": ["https://spyware.neocities.org/"],
+            "starred": false
+          },
+          {
+            "title": "Blacklight - Website Privacy Inspector",
+            "link": ["https://themarkup.org/series/blacklight"],
+            "starred": false
+          },
+          {
+            "title": "GreyNoise - Internet Noise Analysis",
+            "link": ["https://www.greynoise.io/"],
+            "starred": false
+          },
+          {
+            "title": "Terms of Service; Didn't Read - TLDR TOS",
+            "link": ["https://tosdr.org/"],
+            "starred": false
+          },
+          {
+            "title": "V2Ray, V2Fly, V2RayN or v2ray-core - DIY Privacy Network",
+            "link": [
+              "https://v2ray.com/en/",
+              "https://www.v2fly.org/",
+              "https://github.com/freefq/free",
+              "https://github.com/v2fly/v2ray-core"
+            ],
+            "starred": false
+          },
+          {
+            "title": "V2Ray Tools - GUI, 2 / GeoIP / Free Server / Tutorial",
+            "link": [
+              "https://github.com/2dust/v2rayN",
+              "https://github.com/Qv2ray/Qv2ray",
+              "https://github.com/Loyalsoldier/geoip",
+              "https://fanqiang.network/",
+              "https://github.com/freefq/tutorials"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Scout - Phone Number Lookup / Safety Check",
+            "link": ["https://www.scout.tel/phone-number-lookup"],
+            "starred": false
+          },
+          {
+            "title": "FreeCarrierLookup - Get Telephone Carrier Data",
+            "link": ["https://www.freecarrierlookup.com/"],
+            "starred": false
+          },
+          {
+            "title": "/r/Privacy,  /r/TheHatedOne, /r/PrivacyToolsIO or /r/privatelife/ - Privacy Discussion, News & Tools",
+            "link": [
+              "https://reddit.com/r/privacy",
+              "https://www.reddit.com/r/thehatedone",
+              "https://www.reddit.com/r/privacytoolsIO",
+              "https://www.reddit.com/r/privatelife/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "/r/DeGoogle - Google Alternative Subreddit",
+            "link": ["https://www.reddit.com/r/degoogle"],
+            "starred": false
+          },
+          {
+            "title": "Unredacted Google Antitrust Filing / Highlights",
+            "link": [
+              "https://ufile.io/sr0k67vq",
+              "https://twitter.com/fasterthanlime/status/1452053938195341314"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Facebook Doc Stories - Facebook Malpractices Index",
+            "link": [
+              "https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Privacy.com - Make Secure Payments / US only",
+            "link": ["https://privacy.com/"],
+            "starred": false
+          },
+          {
+            "title": "OTPClient - One-Time Password Client",
+            "link": ["https://github.com/paolostivanin/OTPClient"],
+            "starred": false
+          },
+          {
+            "title": "ctfs - Information Security Competition Writeups",
+            "link": ["https://github.com/ctfs/"],
+            "starred": false
+          },
+          {
+            "title": "Globaleaks - Self-Hosted Whistleblowing Platform",
+            "link": ["https://www.globaleaks.org/"],
+            "starred": false
+          },
+          {
+            "title": "DeepPrivacy - A Generative Adversarial Network for Face Anonymization",
+            "link": ["https://github.com/hukkelas/"],
+            "starred": false
+          },
+          {
+            "title": "image-scrubber - Anonymize Protest Photos",
+            "link": ["https://github.com/everestpipkin/image-scrubber"],
+            "starred": false
+          },
+          {
+            "title": "Mobile Verification Toolkit - Test for Potential Compromises on Android / iOS",
+            "link": ["https://github.com/mvt-project/mvt"],
+            "starred": false
+          },
+          {
+            "title": "Awesome Vehicle Security - Vehicle Security Resources Index",
+            "link": [
+              "https://github.com/jaredthecoder/awesome-vehicle-security"
+            ],
+            "starred": false
+          },
+          {
+            "title": "uBeacSec - Ultrasound Frequency Filter",
+            "link": ["https://ubeacsec.org/"],
+            "starred": false
+          },
+          {
+            "title": "Fingerprint Suite - Browser Fingerprinting Tools / Scraping Anonymization",
+            "link": ["https://github.com/apify/fingerprint-suite"],
+            "starred": false
+          },
+          {
+            "title": "NoScriptFingerprint - How JavaScript Fingerprinting Works",
+            "link": ["https://noscriptfingerprint.com/"],
+            "starred": false
+          },
+          {
+            "title": "GoFOSS - Why You Should Use FOSS Alternatives",
+            "link": ["https://gofoss.net/"],
+            "starred": false
+          }
+        ]
+      },
+      {
+        "title": "Privacy Extensions",
+        "links": [
+          {
+            "title": "ClearURLs / 2, Link Cleaner or Link Sanitizer - Remove Tracking Elements from URLs",
+            "link": [
+              "https://github.com/ClearURLs/Addon/releases",
+              "https://gitlab.com/KevinRoebert/ClearUrls",
+              "https://mybrowseraddon.com/link-cleaner.html",
+              "https://greasyfork.org/en/scripts/374699-link-sanitizer"
+            ],
+            "starred": true
+          },
+          {
+            "title": "LocalCDN, WhatCampaign, Decentraleyes, Ping Blocker, OptMeowt or TrackMeNot - Tracking Protection",
+            "link": [
+              "https://www.localcdn.org/",
+              "https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/",
+              "https://decentraleyes.org/",
+              "https://github.com/dessant/ping-blocker",
+              "https://github.com/privacy-tech-lab/gpc-optmeowt",
+              "http://trackmenot.io/"
+            ],
+            "starred": true
+          },
+          {
+            "title": "CRXcavator - Check Browser Extension Security",
+            "link": ["https://crxcavator.io/"],
+            "starred": false
+          },
+          {
+            "title": "File Guard - File Encryption / Decryption",
+            "link": ["https://mybrowseraddon.com/file-encryptor.html"],
+            "starred": false
+          },
+          {
+            "title": "Trace - Privacy Toolkit",
+            "link": ["https://absolutedouble.co.uk/trace/"],
+            "starred": false
+          },
+          {
+            "title": "Site Bleacher - Auto Remove Cookies, Local Storages, etc.",
+            "link": ["https://github.com/wooque/site-bleacher"],
+            "starred": false
+          },
+          {
+            "title": "Invidition or LibreDirect - Frontend Redirect",
+            "link": [
+              "https://codeberg.org/Booteille/Invidition",
+              "https://github.com/libredirect/libredirect"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Invidious Redirect - YouTube Frontend Redirect",
+            "link": [
+              "https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search"
+            ],
+            "starred": false
+          },
+          {
+            "title": "catgirl.cloud - Privacy-Respecting Services",
+            "link": ["https://catgirl.cloud/"],
+            "starred": false
+          },
+          {
+            "title": "Anti-Grabify - Block IP Grabbers",
+            "link": ["https://github.com/Konnor88/anti-grabify"],
+            "starred": false
+          },
+          {
+            "title": "Anti-Fp - Disrupt Fingerprint Targeting",
+            "link": ["https://www.cydecplatform.com/antifp.html"],
+            "starred": false
+          },
+          {
+            "title": "CanvasBlocker or Canvas Defender - Prevent Canvas Fingerprinting",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_canvasblocker",
+              "https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Refer Deez Nuts - Hide Referral Code Clicks",
+            "link": [
+              "https://addons.mozilla.org/en-US/firefox/addon/refer-deez-nuts/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "GNU LibreJS - Block Trivial Javascript",
+            "link": ["https://www.gnu.org/software/librejs/"],
+            "starred": false
+          },
+          {
+            "title": "PortAuthority - Block Javascript Port Scan on Sites",
+            "link": [
+              "https://addons.mozilla.org/en-US/firefox/addon/port-authority/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "First Party Isolation - Like blocking Third-party cookies, but more exhaustively",
+            "link": [
+              "https://github.com/mozfreddyb/webext-firstpartyisolation"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Location Guard - Hide Browsers Geolocation",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_location_guard"
+            ],
+            "starred": false
+          },
+          {
+            "title": "SafeToOpen - Protect Yourself From Phishing Attacks",
+            "link": ["https://safetoopen.com/"],
+            "starred": false
+          },
+          {
+            "title": "Language Switch - Change Language Identifier",
+            "link": [
+              "https://addons.mozilla.org/en-US/firefox/addon/languageswitch/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "HTTP Tracker - Track Network on Browser",
+            "link": ["https://github.com/venukbh/http-tracker"],
+            "starred": false
+          },
+          {
+            "title": "chrome-utm-stripper - Remove Tracking Tokens",
+            "link": ["https://github.com/jparise/chrome-utm-stripper"],
+            "starred": false
+          },
+          {
+            "title": "Re-Consent - Opt Out of Data Collection",
+            "link": ["https://cliqz.com/en/magazine/re-consent"],
+            "starred": false
+          },
+          {
+            "title": "SocialSharePrivacy - Turn Off Social Sharing Buttons",
+            "link": ["https://panzi.github.io/SocialSharePrivacy/"],
+            "starred": false
+          },
+          {
+            "title": "Spoof Timezone - Hide Real Timezone",
+            "link": ["https://add0n.com/spoof-timezone.html"],
+            "starred": false
+          },
+          {
+            "title": "Cloud Firewall - Browser Firewall",
+            "link": [
+              "https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "UglyEmail or PixelBlock - Block Email Trackers",
+            "link": [
+              "https://uglyemail.com/",
+              "https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "FlowCrypt - Gmail Encryption",
+            "link": ["https://flowcrypt.com/"],
+            "starred": false
+          },
+          {
+            "title": "Chameleon, UA Switcher & Manager or User-Agent Switcher - User-Agent Spoofer",
+            "link": [
+              "https://sereneblue.github.io/chameleon/",
+              "https://add0n.com/useragent-switcher.html",
+              "https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Vytal - Changes Geolocation to match VPN IP address",
+            "link": [
+              "https://chrome.google.com/webstore/detail/vytal/ncbknoohfjmcfneopnfkapmkblaenokb"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Firefox Privacy Settings or SnowHaze - Firefox Privacy Settings Manager",
+            "link": [
+              "https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/",
+              "https://github.com/snowhaze/firefox-extension"
+            ],
+            "starred": false
+          },
+          {
+            "title": "VPNTabs - Force Firefox Tabs through VPN or Tor",
+            "link": ["https://github.com/Nickguitar/VPNTabs"],
+            "starred": false
+          },
+          {
+            "title": "Smart Referer - Limit Referer Information Leaks",
+            "link": ["https://gitlab.com/smart-referrer/smart-referer"],
+            "starred": false
+          },
+          {
+            "title": "Privacy-Oriented Origin Policy - Prevents Sending Origin Headers",
+            "link": ["https://claustromaniac.github.io/poop/"],
+            "starred": false
+          },
+          {
+            "title": "GAOptOut or Trackless - Google Analytics Opt Out",
+            "link": [
+              "https://tools.google.com/dlpage/gaoptout",
+              "https://github.com/ascorbic/trackless"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Opt Out Tools - Prevents JavaScript from sending Google info",
+            "link": ["https://add0n.com/opt-out.html"],
+            "starred": false
+          },
+          {
+            "title": "Luminous - JavaScript Events Blocker",
+            "link": ["https://gbaptista.github.io/luminous/doc/en-US/"],
+            "starred": false
+          },
+          {
+            "title": "Behave! - IP Protection",
+            "link": ["https://github.com/mindedsecurity/behave"],
+            "starred": false
+          },
+          {
+            "title": "WebRTC Control or WebRTC - Enable / Disable WebRTC",
+            "link": [
+              "https://mybrowseraddon.com/webrtc-control.html",
+              "https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "WebRTC Network Limiter - WebRTC Network Traffic Config",
+            "link": [
+              "https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en"
+            ],
+            "starred": false
+          },
+          {
+            "title": "GPSDetect - Alerts user when JPEG contains EXIF GPS coordinates",
+            "link": ["https://github.com/allanlw/gps-detect"],
+            "starred": false
+          },
+          {
+            "title": "Forget Me Not - Only keeps website data for sites you choose",
+            "link": [
+              "https://addons.mozilla.org/en-US/firefox/addon/forget_me_not/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Secure Password Generator or Password Generator - Password Generator",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_secure_password_generator",
+              "https://github.com/XFox111/PasswordGeneratorExtension"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Private Bookmarks - Password Protected Bookmarks",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password-protected_bookmarks"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Permission Inspector - Extension Permissions Inspector",
+            "link": ["https://github.com/tsl143/addonManager"],
+            "starred": false
+          },
+          {
+            "title": "History-AutoDelete - Browser History Manager",
+            "link": ["https://github.com/naresh97/History-AutoDelete-Rebooted"],
+            "starred": false
+          },
+          {
+            "title": "eCleaner or History & Cache Cleaner  - History & Cache Cleaner",
+            "link": [
+              "https://add0n.com/ecleaner.html",
+              "https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en"
+            ],
+            "starred": false
+          },
+          {
+            "title": "CopyGuard - Clipboard Hijacking Notifications",
+            "link": ["https://github.com/roedesh/copyguard"],
+            "starred": false
+          },
+          {
+            "title": "Nuke-Reddit-History - Reddit Auto Post Delete",
+            "link": ["https://github.com/sr33/ares"],
+            "starred": false
+          },
+          {
+            "title": "WhatsApp Privacy Extension - Hide WhatsApp Messages Until Hovered Over / GitHub",
+            "link": [
+              "https://pfwa.lukaslen.com/",
+              "https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web"
+            ],
+            "starred": false
+          },
+          {
+            "title": "AudioContext Fingerprint Test - AudioContext / Canvas API Fingerprinting Test",
+            "link": ["https://audiofingerprint.openwpm.com/"],
+            "starred": false
+          },
+          {
+            "title": "AudioContext Fingerprint Defender - Stop AudioContext fingerprinting",
+            "link": ["https://mybrowseraddon.com/audiocontext-defender.html"],
+            "starred": false
+          },
+          {
+            "title": "zero-width - Replaces zero-width characters",
+            "link": ["https://github.com/chpmrc/zero-width-chrome-extension"],
+            "starred": false
+          },
+          {
+            "title": "Temporary Containers - Disposable Containers",
+            "link": [
+              "https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Redirect AMP to HTML - Redirects AMP Pages to Regular Web Pages",
+            "link": ["https://www.daniel.priv.no/web-extensions/amp2html.html"],
+            "starred": false
+          },
+          {
+            "title": "HTTP Header Live - Display / Edit the HTTP Header",
+            "link": ["https://github.com/Nitrama/HTTP-Header-Live"],
+            "starred": false
+          },
+          {
+            "title": "Open Two Factor Authenticator - Two-Factor Authentication Addon",
+            "link": ["https://add0n.com/two-factor-authenticator.html"],
+            "starred": false
+          },
+          {
+            "title": "WAIncognito - Disable WhatsApps Read Receipts & Presence Updates",
+            "link": [
+              "https://chrome.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en"
+            ],
+            "starred": false
+          },
+          {
+            "title": "IndicateTLS - Display a Sites the TLS Protocol Version",
+            "link": ["https://github.com/jannispinter/indicatetls"],
+            "starred": false
+          },
+          {
+            "title": "Lightbeam - Tracker Visualization",
+            "link": ["https://github.com/princiya/lightbeam-we"],
+            "starred": false
+          }
+        ]
+      },
+      {
+        "title": "Browser Tools",
+        "links": [
+          {
+            "title": "Tor Browser or Lokinet - Onion-Routed Browser",
+            "link": ["https://www.torproject.org/", "https://lokinet.org/"],
+            "starred": true
+          },
+          {
+            "title": "Tor Tools - Tor Tools / Guides",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Privacy Hardened Firefox - Firefox Privacy Profiles / Guides",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_hardened_firefox"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Privacy Based Browsers - Privacy Focused Browsers",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Vytal.io, EverySiteKnows, FirstPartySimulator, PersonalData or WEBKAY - Browser Tracking Tests",
+            "link": [
+              "https://vytal.io/",
+              "http://everysiteknows.ferrucc.io/",
+              "https://firstpartysimulator.org/",
+              "https://personaldata.info/",
+              "https://webkay.robinlinus.com/"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Encode / Decode URLs - URL Encoding / Decoding Tools",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls"
+            ],
+            "starred": true
+          },
+          {
+            "title": "alternative-front-ends / 2, Farside or alternative-frontends - Frontend Index",
+            "link": [
+              "https://github.com/mendel5/alternative-front-ends",
+              "https://rentry.co/8kqrrn",
+              "https://farside.link/",
+              "https://github.com/digitalblossom/alternative-frontends"
+            ],
+            "starred": true
+          },
+          {
+            "title": "PrivacySpy - Grades a Sites Privacy Policies",
+            "link": ["https://privacyspy.org/"],
+            "starred": true
+          },
+          {
+            "title": "ACCOUNTKILLER or JustDeleteMe, 2 - Find / Terminate Old Accounts",
+            "link": [
+              "https://www.accountkiller.com/",
+              "https://justdeleteme.xyz/",
+              "https://backgroundchecks.org/justdeleteme/"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Awesome Private Browsing - Browser Privacy Index",
+            "link": ["https://github.com/onsitejs/Awesome-Private-Browsing"],
+            "starred": false
+          },
+          {
+            "title": "Awesome Web Security - Web Security Resource Index",
+            "link": ["https://github.com/qazbnm456/awesome-web-security"],
+            "starred": false
+          },
+          {
+            "title": "Brave Browser Hardening -  Privacy Hardened Brave",
+            "link": ["https://gitlab.com/CHEF-KOCH/brave-browser-hardening"],
+            "starred": false
+          },
+          {
+            "title": "How Secure is My Password - Password Strength Checker",
+            "link": ["https://www.security.org/how-secure-is-my-password/"],
+            "starred": false
+          },
+          {
+            "title": "h8Mail - Multiple Data Breach Checks",
+            "link": ["http://github.com/khast3x/h8mail"],
+            "starred": false
+          },
+          {
+            "title": "Snusbase, Leak Lookup, Trufflehog or leakpeek - Data Breach Search Engine",
+            "link": [
+              "https://snusbase.com/",
+              "http://leak-lookup.com/",
+              "https://github.com/trufflesecurity/trufflehog",
+              "https://leakpeek.com/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "DataBunker - Data Leak Prevention",
+            "link": ["https://databunker.org/"],
+            "starred": false
+          },
+          {
+            "title": "Creepjs or LocateJS - Check for Browser / Extension Leaks",
+            "link": [
+              "https://abrahamjuliot.github.io/creepjs",
+              "https://z0ccc.github.io/LocateJS/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "RS Lookup - Check if your RuneScape data has been breached",
+            "link": ["http://rslookup.com/"],
+            "starred": false
+          },
+          {
+            "title": "Canarytokens - Network Breach Check",
+            "link": ["https://canarytokens.org/generate"],
+            "starred": false
+          },
+          {
+            "title": "JustGetMyData - Links to Obtain Your Data from Websites",
+            "link": ["https://justgetmydata.com/"],
+            "starred": false
+          },
+          {
+            "title": "PrivacyTests - Web Browser Privacy Tests",
+            "link": ["https://privacytests.org/"],
+            "starred": false
+          },
+          {
+            "title": "Privacy Score - Website Privacy Score Rankings",
+            "link": ["https://privacyscore.org/"],
+            "starred": false
+          },
+          {
+            "title": "TrackingTheTrackers - Check if Site is Disguising Trackers",
+            "link": ["https://trackingthetrackers.com/"],
+            "starred": false
+          },
+          {
+            "title": "LMT Anti-Logger - Anti-Loggers (e.g. Keyloggers)",
+            "link": ["https://leminhthanh.me/antilogger/"],
+            "starred": false
+          },
+          {
+            "title": "QFX KeyScrambler - Scramble Keyboard Inputs",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_qfx_keyscrambler"
+            ],
+            "starred": false
+          },
+          {
+            "title": "WhoTracksMe or Trackography - Site Tracking Info",
+            "link": ["https://whotracks.me/", "https://trackography.org/"],
+            "starred": false
+          },
+          {
+            "title": "YourAdChoices - Check Your Current IBA Status",
+            "link": ["https://optout.aboutads.info/?c=2&lang=EN"],
+            "starred": false
+          },
+          {
+            "title": "I2P - Encrypted Private Network Layer / Resource Index",
+            "link": [
+              "https://geti2p.net/en/",
+              "https://github.com/mikalv/awesome-i2p"
+            ],
+            "starred": false
+          },
+          {
+            "title": "I2Pd Browser - I2P Browser / GitHub",
+            "link": [
+              "https://i2pd.website/",
+              "https://github.com/PurpleI2P/i2pd"
+            ],
+            "starred": false
+          },
+          {
+            "title": "CookieStatus - Browser Tracking Protection Comparisons",
+            "link": ["https://www.cookiestatus.com/"],
+            "starred": false
+          },
+          {
+            "title": "NothingPrivate, Device Info, Privacy Test, IPX or Sploit - Browser Data Leak Test",
+            "link": [
+              "https://www.nothingprivate.ml/",
+              "https://www.deviceinfo.me/",
+              "https://privacy.net/analyzer/",
+              "https://ipx.ac/run",
+              "https://sploit.io/test.php"
+            ],
+            "starred": false
+          },
+          {
+            "title": "SSL Labs - SSL/TLS Browser Capabilities Test",
+            "link": [
+              "https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html"
+            ],
+            "starred": false
+          },
+          {
+            "title": "IP / DNS Leak Tests - Test for IP & DNS Leaks",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests"
+            ],
+            "starred": false
+          },
+          {
+            "title": "DNSCookie - Identify Related Network Flows",
+            "link": ["http://dnscookie.com/"],
+            "starred": false
+          },
+          {
+            "title": "Microsoft Security Intelligence - Report Unsafe Sites",
+            "link": [
+              "https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Phish.Report or PhishTank - Report Phishing Sites",
+            "link": ["https://phish.report/", "https://phishtank.org/"],
+            "starred": false
+          },
+          {
+            "title": "How-To Turn off IPv6 - Prevent IP Leaks",
+            "link": ["https://www.itechguides.com/disable-ipv6-windows-10/"],
+            "starred": false
+          },
+          {
+            "title": "IPv6 Leak Test, Test-IPv6 or IPv6 Test - IPv6 Leak Test",
+            "link": [
+              "https://ip6.nl/",
+              "https://test-ipv6.com/",
+              "https://ipv6-test.com/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Voidsec or WebRTC Leak Test - WebRTC Leak Test",
+            "link": [
+              "https://ip.voidsec.com/",
+              "https://www.expressvpn.com/webrtc-leak-test"
+            ],
+            "starred": false
+          },
+          {
+            "title": "webwormhole - Peer Authenticated WebRTC",
+            "link": ["https://github.com/saljam/webwormhole"],
+            "starred": false
+          },
+          {
+            "title": "WhatsMyUA? or WhatIsMyBrowser - User-Agent Detection",
+            "link": [
+              "https://www.whatsmyua.info/",
+              "https://www.whatismybrowser.com/detect/what-is-my-user-agent"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Google Takeout - Google Data Request",
+            "link": ["https://takeout.google.com/"],
+            "starred": false
+          },
+          {
+            "title": "de-google, De-google-ify, Degoogle, Google Alt List or No More Google - Google App Alternatives",
+            "link": [
+              "https://www.reddit.com/r/privacy/wiki/de-google",
+              "https://degooglisons-internet.org/en/",
+              "https://github.com/tycrek/degoogle",
+              "https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html",
+              "https://nomoregoogle.com/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "no-google - Block All Google Services",
+            "link": ["https://github.com/nickspaargaren/no-google"],
+            "starred": false
+          },
+          {
+            "title": "Nixory - Antispyware Browser Tool",
+            "link": ["http://nixory.sourceforge.net/"],
+            "starred": false
+          },
+          {
+            "title": "Alternative Internet - Decentralization Networks",
+            "link": ["https://redecentralize.github.io/alternative-internet/"],
+            "starred": false
+          },
+          {
+            "title": "Dark Launch Referer Test - Check Link Referrer",
+            "link": ["https://www.darklaunch.com/tools/test-referer"],
+            "starred": false
+          },
+          {
+            "title": "Anonymizer - Anonymize Links",
+            "link": ["https://www.lolinez.com/"],
+            "starred": false
+          },
+          {
+            "title": "Link Cleaner - Remove Tracking Elements / Extra Garbage from URLs / Script",
+            "link": [
+              "https://linkcleaner.app/",
+              "https://gist.github.com/htsign/455bd76d107be1f810c5caa4072c8275"
+            ],
+            "starred": false
+          },
+          {
+            "title": "whoer, encrypted-sni or f.vision - Check Network / Browser Security",
+            "link": [
+              "https://whoer.net/",
+              "https://www.cloudflare.com/ssl/encrypted-sni/",
+              "http://www.f.vision/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "browserrecon, PixelScan, Unique Machine or AmIUnique / Timeline - Browser Fingerprinting Test",
+            "link": [
+              "https://www.computec.ch/projekte/browserrecon/?s=scan",
+              "https://pixelscan.net/",
+              "https://uniquemachine.org/",
+              "https://amiunique.org/",
+              "https://amiunique.org/timeline"
+            ],
+            "starred": false
+          },
+          {
+            "title": "fluxfonts - Hide Unique Font Fingerprint",
+            "link": ["https://github.com/da2x/fluxfonts"],
+            "starred": false
+          },
+          {
+            "title": "Extension Fingerprints - Extension Fingerprinting Test",
+            "link": ["https://github.com/z0ccc/extension-fingerprints"],
+            "starred": false
+          },
+          {
+            "title": "dataskydd or Blacklight - Check what data-protecting measures a site has taken",
+            "link": [
+              "https://webbkoll.dataskydd.net/",
+              "https://themarkup.org/blacklight"
+            ],
+            "starred": false
+          },
+          {
+            "title": "uBO-Scope - Measure 3rd Party Exposure",
+            "link": ["https://github.com/gorhill/uBO-Scope"],
+            "starred": false
+          },
+          {
+            "title": "Wikiless - Wikipedia Frontend",
+            "link": ["https://wikiless.org/"],
+            "starred": false
+          },
+          {
+            "title": "Nitter or NitterDV - Twitter Frontend / Manage Feeds",
+            "link": [
+              "https://nitter.net/",
+              "https://nitter.usethetools.org/",
+              "https://github.com/pluja/Feetter"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Reddit Frontends",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends"
+            ],
+            "starred": false
+          },
+          {
+            "title": "ProxiTok - TikTok Frontend / GitHub",
+            "link": [
+              "https://proxitok.pabloferreiro.es/",
+              "https://github.com/pablouser1/ProxiTok"
+            ],
+            "starred": false
+          },
+          {
+            "title": "SimpleAmazon - Amazon Frontend",
+            "link": ["https://amazon.simple-web.org/"],
+            "starred": false
+          },
+          {
+            "title": "Cusdis - Privacy-Focused Comment System / GitHub",
+            "link": ["https://cusdis.com/", "https://github.com/djyde/cusdis"],
+            "starred": false
+          },
+          {
+            "title": "Social Amnesia - Reddit / Twitter Auto Post Delete",
+            "link": ["https://github.com/Nick-Gottschlich/Social-Amnesia"],
+            "starred": false
+          },
+          {
+            "title": "delete-likes-from-twitter - Delete Twitter Likes / Favorites",
+            "link": [
+              "https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Unfavinator - Delete Twitter Favorites",
+            "link": ["http://unfavinator.com/"],
+            "starred": false
+          },
+          {
+            "title": "TweetDelete or TweetEraser - Delete Twitter Posts in Bulk",
+            "link": [
+              "https://tweetdelete.net/",
+              "https://www.tweeteraser.com/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "GeoSocial Footprint or tinfoleak - View Your Geosocial Footprint",
+            "link": [
+              "http://geosocialfootprint.com/",
+              "https://tinfoleak.com/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "PowerDeleteSuite - Reddit Auto Post Delete",
+            "link": ["https://github.com/j0be/PowerDeleteSuite"],
+            "starred": false
+          },
+          {
+            "title": "Mine - View / Manage Digital Footprint",
+            "link": ["https://saymineapp.com/"],
+            "starred": false
+          },
+          {
+            "title": "Redact - Delete Entire Online History / Warning",
+            "link": ["https://redact.dev/", "https://i.imgur.com/Kt8G430.png"],
+            "starred": false
+          },
+          {
+            "title": "Make Internet Noise - Randomize Browser History",
+            "link": ["http://makeinternetnoise.com/"],
+            "starred": false
+          },
+          {
+            "title": "Freenet Project - Browse / Publish Freenet Sites",
+            "link": ["https://freenetproject.org/"],
+            "starred": false
+          },
+          {
+            "title": "Gopher - Alternative Internet Protocol",
+            "link": ["https://gopher.floodgap.com/gopher/"],
+            "starred": false
+          },
+          {
+            "title": "Cache Monkey - Convert, Browse & Clear Cached Images & Files",
+            "link": ["https://github.com/jamiepine/cache-monkey"],
+            "starred": false
+          },
+          {
+            "title": "Image Scrubber - Blur Images / Scrub Metadata",
+            "link": ["https://everestpipkin.github.io/image-scrubber/"],
+            "starred": false
+          },
+          {
+            "title": "exiftool, ExifCleaner, EXIFRemove, scrambled-exif or VerExif - Remove Meta / EXIF Data",
+            "link": [
+              "https://exiftool.org/",
+              "https://exifcleaner.com/",
+              "https://www.exifremove.com/",
+              "https://gitlab.com/juanitobananas/scrambled-exif",
+              "https://www.verexif.com/en/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Pic2Map - Image EXIF data viewer with GPS support",
+            "link": ["https://www.pic2map.com/"],
+            "starred": false
+          },
+          {
+            "title": "TheExifer or Exiv2 - Image EXIF Data Editor",
+            "link": [
+              "https://www.thexifer.net/index.php",
+              "https://exiv2.org/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Nameexif - Bulk Image EXIF Data Editor",
+            "link": ["https://us.digicamsoft.com/softnamexif.html"],
+            "starred": false
+          },
+          {
+            "title": "pdf-redact-tools - Remove Metadata from Documents / PDF Files",
+            "link": ["https://github.com/firstlookmedia/pdf-redact-tools"],
+            "starred": false
+          },
+          {
+            "title": "Mat2 / Desktop, 2, metadata-cleaner - Remove Metadata from Files",
+            "link": [
+              "https://0xacab.org/jvoisin/mat2",
+              "https://metadatacleaner.romainvigier.fr/",
+              "https://0xacab.org/jvoisin/mat2-web",
+              "https://gitlab.com/rmnvgr/metadata-cleaner"
+            ],
+            "starred": false
+          },
+          {
+            "title": "SecLists - Security Mailing List Archive",
+            "link": ["https://seclists.org/"],
+            "starred": false
+          },
+          {
+            "title": "OpenPhish - Phishing Threat Data",
+            "link": ["https://openphish.com/"],
+            "starred": false
+          },
+          {
+            "title": "Panopticlick - Test if your Browser Blocks Tracking",
+            "link": ["https://coveryourtracks.eff.org/"],
+            "starred": false
+          },
+          {
+            "title": "GoodbyeDPI - Bypass Site Blocking DPI",
+            "link": ["https://github.com/ValdikSS/GoodbyeDPI/"],
+            "starred": false
+          },
+          {
+            "title": "Am I FLoCed? or FLoC Demo - Check if Chrome Ad-Targeting is Enabled",
+            "link": ["https://amifloced.org/", "https://floc.glitch.me/"],
+            "starred": false
+          },
+          {
+            "title": "Yggdrasil, 2 - IPv6 Network / yggdrasil-go",
+            "link": [
+              "https://yggdrasil-network.github.io/",
+              "https://github.com/yggdrasil-network",
+              "https://github.com/yggdrasil-network/yggdrasil-go/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "anoNet - Anonymous IP Network",
+            "link": ["http://www.anonet.org/"],
+            "starred": false
+          }
+        ]
+      },
+      {
+        "title": "Search Engines",
+        "links": [
+          {
+            "title": "Search Engine Party - Privacy Search Engine Comparisons",
+            "link": ["https://searchengine.party/"],
+            "starred": true
+          },
+          {
+            "title": "DuckDuckGo - Shortcuts",
+            "link": ["https://duckduckgo.com/", "https://duckduckgo.com/bang"],
+            "starred": true
+          },
+          {
+            "title": "searx - Instances / Desktop",
+            "link": [
+              "https://asciimoo.github.io/searx/",
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances",
+              "https://notabug.org/CYBERDEViL/searx-qt"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Qwant",
+            "link": ["https://www.qwant.com/"],
+            "starred": false
+          },
+          {
+            "title": "Swisscows",
+            "link": ["https://swisscows.com/"],
+            "starred": false
+          },
+          {
+            "title": "Metager",
+            "link": ["https://metager.org/"],
+            "starred": false
+          },
+          { "title": "YaCy", "link": ["https://yacy.net/"], "starred": false },
+          {
+            "title": "Mojeek",
+            "link": ["https://www.mojeek.com/"],
+            "starred": false
+          },
+          {
+            "title": "SKYN3T",
+            "link": ["https://skyn3t.in/"],
+            "starred": false
+          },
+          {
+            "title": "Brave Search",
+            "link": ["https://search.brave.com/"],
+            "starred": false
+          },
+          {
+            "title": "Snopyta",
+            "link": ["https://search.snopyta.org/"],
+            "starred": false
+          },
+          {
+            "title": "peekier",
+            "link": ["https://peekier.com/"],
+            "starred": false
+          },
+          {
+            "title": "neeva",
+            "link": ["https://neeva.com/"],
+            "starred": false
+          },
+          { "title": "Kagi", "link": ["https://kagi.com/"], "starred": false },
+          {
+            "title": "ekoru",
+            "link": ["https://ekoru.org/"],
+            "starred": false
+          },
+          {
+            "title": "Gibiru",
+            "link": ["https://gibiru.com/"],
+            "starred": false
+          },
+          {
+            "title": "Whoogle - Easy to self-host SE with Google results",
+            "link": ["https://github.com/benbusby/whoogle-search"],
+            "starred": false
+          }
+        ]
+      },
+      {
+        "title": "Email Services",
+        "links": [
+          {
+            "title": "Encrypted Email Services",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_email_services"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Temp Emails - Create Temporary Email Addresses",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Have I been Pwned? or GhostProject - Monitor Email Breaches",
+            "link": ["https://haveibeenpwned.com/", "https://ghostproject.fr/"],
+            "starred": true
+          },
+          {
+            "title": "EmailPrivacyTester - Email Privacy Tests",
+            "link": ["https://www.emailprivacytester.com/"],
+            "starred": false
+          },
+          {
+            "title": "Email Forwarding Tools - Hide Real Email Address'",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_forwarding"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Duck Manager or ddgmail - Manage @duck Aliases",
+            "link": [
+              "https://github.com/weebi/duck-manager",
+              "https://github.com/lem6ns/ddgmail"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Check-Mail or Validator - Check Email Validity",
+            "link": [
+              "https://check-mail.org/free-email-validation-api/",
+              "https://www.validator.pizza/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "OpenPGP - Email Encryption",
+            "link": ["https://www.openpgp.org/"],
+            "starred": false
+          },
+          {
+            "title": "MetaClean for Gmail - Remove Metadata from Emails",
+            "link": [
+              "https://www.adarsus.com/en/remove-metadata-from-gmail-attachments/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Anon Emails - Send Anonymous Emails",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails"
+            ],
+            "starred": false
+          },
+          {
+            "title": "/r/emailprivacy  - Discussion of Email Privacy / Security / Anonymity",
+            "link": ["https://reddit.com/r/emailprivacy"],
+            "starred": false
+          },
+          {
+            "title": "Block Sender - Block Unwanted Emails",
+            "link": ["https://blocksender.io/"],
+            "starred": false
+          },
+          {
+            "title": "E4ward - Spam Email Filter",
+            "link": ["http://e4ward.com/"],
+            "starred": false
+          },
+          {
+            "title": "EmailRep - Email Reputation Check",
+            "link": ["http://emailrep.io/"],
+            "starred": false
+          },
+          {
+            "title": "torbirdy - Connect to Mozilla Thunderbird via Tor",
+            "link": ["https://trac.torproject.org/projects/tor/wiki/torbirdy"],
+            "starred": false
+          }
+        ]
+      },
+      { "title": "Linux Privacy", "links": [] },
+      { "title": "Mac Privacy", "links": [] },
+      { "title": "Android Privacy", "links": [] },
+      { "title": "iOS Privacy", "links": [] }
+    ]
+  },
+  {
+    "title": "VPN",
+    "links": [
+      {
+        "title": "VPN Comparison Chart - Compare VPN Privacy Polices",
+        "link": [
+          "https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/"
+        ],
+        "starred": true
+      },
+      {
+        "title": "How-to Bind VPN to Client - Bind VPN to Client to Avoid ISP Letters",
+        "link": ["https://redd.it/ssy8vv"],
+        "starred": true
+      },
+      {
+        "title": "Mullvad - Pricing / NetNS",
+        "link": [
+          "https://mullvad.net/",
+          "https://i.imgur.com/LfjZ9G3.png",
+          "https://github.com/chutz/mullvad-netns"
+        ],
+        "starred": true
+      },
+      {
+        "title": "Proton - Pricing / No Torrenting w/ Free Version",
+        "link": ["https://protonvpn.com", "https://i.imgur.com/hkhZGg1.png"],
+        "starred": true
+      },
+      {
+        "title": "Windscribe - Pricing / Free Version Available / Improved App",
+        "link": [
+          "https://windscribe.com",
+          "https://i.imgur.com/D7015rq.png",
+          "https://github.com/Windscribe/desktop-v2"
+        ],
+        "starred": true
+      },
+      {
+        "title": "Surfshark - Pricing",
+        "link": ["https://surfshark.com/", "https://i.imgur.com/YaiKjpX.png"],
+        "starred": true
+      },
+      {
+        "title": "Riseup - Free VPN",
+        "link": ["https://riseup.net/en/vpn"],
+        "starred": true
+      },
+      {
+        "title": "Softether - Free VPN / VPN Gate / Note",
+        "link": [
+          "https://www.softether.org/",
+          "https://www.vpngate.net/en/download.aspx",
+          "https://pastebin.com/TrSw7EpF"
+        ],
+        "starred": true
+      },
+      {
+        "title": "WireGuard - VPN Tunnel / Setup Guide / Tools / Manager",
+        "link": [
+          "https://www.wireguard.com/",
+          "https://github.com/amritb/poor-mans-vpn",
+          "https://guardline-vpn.github.io/wireguard-tools/",
+          "https://github.com/perara/wg-manager"
+        ],
+        "starred": true
+      },
+      {
+        "title": "Perfect Privacy - Pricing",
+        "link": [
+          "https://www.perfect-privacy.com/",
+          "https://i.imgur.com/Rtfwu2t.png"
+        ],
+        "starred": false
+      },
+      {
+        "title": "IVPN - Pricing / Free Trial",
+        "link": [
+          "https://www.ivpn.net/",
+          "https://i.imgur.com/Iq92wOO.png",
+          "https://redd.it/nzjmqa"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Trust.Zone - Pricing",
+        "link": ["https://trust.zone/", "https://i.imgur.com/PsRa8GD.png"],
+        "starred": false
+      },
+      {
+        "title": "AirVPN - Pricing",
+        "link": ["https://airvpn.org/", "https://i.imgur.com/TMU1Qtt.png"],
+        "starred": false
+      },
+      {
+        "title": "VPNSecure - Pricing",
+        "link": [
+          "https://www.vpnsecure.me/",
+          "https://i.imgur.com/BnuqpBS.png"
+        ],
+        "starred": false
+      },
+      {
+        "title": "MysteriumVPN - Pricing",
+        "link": [
+          "https://www.mysteriumvpn.com/",
+          "https://i.imgur.com/2un0hjM.png"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Tailscale - Pricing / Discord",
+        "link": [
+          "https://tailscale.com/",
+          "https://i.imgur.com/6lMwcSQ.png",
+          "https://discord.com/invite/n3vtSwc"
+        ],
+        "starred": false
+      },
+      {
+        "title": "TorGuard - Pricing",
+        "link": ["https://torguard.net/", "https://i.imgur.com/O2t4z0C.png"],
+        "starred": false
+      },
+      {
+        "title": "WeVPN - Pricing",
+        "link": ["https://wevpn.com/", "https://i.imgur.com/a6XWraf.png"],
+        "starred": false
+      },
+      {
+        "title": "PandaVPN - Pricing",
+        "link": ["https://pandavpnpro.com/", "https://i.imgur.com/nm2CVhX.png"],
+        "starred": false
+      },
+      {
+        "title": "Hidemy.name - Pricing",
+        "link": ["https://hidemy.name/en/", "https://i.imgur.com/wE4WonU.png"],
+        "starred": false
+      },
+      {
+        "title": "Malwarebytes VPN - Pricing",
+        "link": [
+          "https://malwarebytes.com/vpn",
+          "https://i.imgur.com/wgt7gE0.png"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Adguard VPN - VPN Extension / 3GB Free / Pricing",
+        "link": [
+          "https://adguard-vpn.com/en/welcome.html",
+          "https://i.imgur.com/ZdDexDa.png"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Mozilla FPN - VPN Extension / Pricing / Mullvad Servers",
+        "link": ["https://fpn.firefox.com/", "https://i.imgur.com/wW5rVO2.png"],
+        "starred": false
+      },
+      {
+        "title": "StrongSwan - IPsec VPN",
+        "link": ["https://www.strongswan.org/"],
+        "starred": false
+      },
+      {
+        "title": "WireHole - Wireguard VPN w/ Adblocking Capabilities",
+        "link": ["https://github.com/IAmStoxe/wirehole"],
+        "starred": false
+      },
+      {
+        "title": "Syntropy, Self Hosted VPN, VpnHood, n2n, ipsec-vpn or Outline - Self-Hosted VPN",
+        "link": [
+          "https://www.syntropystack.com/vpn",
+          "https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs",
+          "https://github.com/vpnhood/VpnHood",
+          "https://github.com/ntop/n2n",
+          "https://github.com/hwdsl2/setup-ipsec-vpn",
+          "https://getoutline.org/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "PrivadoVPN - Free VPN / Unlimited Accounts via Temp Mail",
+        "link": [
+          "https://privadovpn.com/",
+          "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Kaspersky - Free VPN / 200 MB per day / No Account Required",
+        "link": ["https://www.kaspersky.co.uk/vpn-secure-connection"],
+        "starred": false
+      },
+      {
+        "title": "OpenConnect - SSL VPN / GUI",
+        "link": [
+          "https://www.infradead.org/openconnect/",
+          "https://openconnect.github.io/openconnect-gui/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "TurboVPN - Free VPN",
+        "link": ["https://turbovpn.com/"],
+        "starred": false
+      },
+      {
+        "title": "Free VPN Online - Free VPN",
+        "link": ["http://freevpnonline.com/"],
+        "starred": false
+      },
+      {
+        "title": "VpnHood - Free VPN",
+        "link": ["https://github.com/vpnhood/VpnHood"],
+        "starred": false
+      },
+      {
+        "title": "TouchVPN - Free VPN",
+        "link": ["https://touchvpn.net/"],
+        "starred": false
+      },
+      {
+        "title": "HideMe - Free VPN",
+        "link": ["https://hide.me/"],
+        "starred": false
+      },
+      {
+        "title": "Calyx VPN - Free VPN",
+        "link": ["https://calyx.net/"],
+        "starred": false
+      },
+      {
+        "title": "Leap VPN - Free VPN",
+        "link": ["https://leap.se/"],
+        "starred": false
+      },
+      {
+        "title": "GreenHub - Free VPN",
+        "link": ["https://greenhubtx.ga/"],
+        "starred": false
+      },
+      {
+        "title": "Clash - Free VPN / Profiles",
+        "link": [
+          "https://github.com/Fndroid/clash_for_windows_pkg",
+          "https://rentry.co/2q3rn"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Portals - dVPN",
+        "link": ["https://www.portals.network/"],
+        "starred": false
+      },
+      {
+        "title": "FreePN - Free Open Source P2P VPN",
+        "link": ["https://www.freepn.org/"],
+        "starred": false
+      },
+      {
+        "title": "TunnelBear - Free VPN / 500mb",
+        "link": ["https://www.tunnelbear.com/"],
+        "starred": false
+      },
+      {
+        "title": "VPNBook - Free VPN Accounts",
+        "link": ["https://www.vpnbook.com/"],
+        "starred": false
+      },
+      {
+        "title": "VPNGate - Free VPN Relay Servers",
+        "link": ["https://www.vpngate.net/en/"],
+        "starred": false
+      },
+      {
+        "title": "OpenVPN or TincVPN - VPN Tunnels",
+        "link": ["https://openvpn.net/", "http://www.tinc-vpn.org/"],
+        "starred": false
+      },
+      {
+        "title": "Free VPN Configs - Free VPN Tunnel Configs",
+        "link": [
+          "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Warp-Unlimited-Advanced - Generate Unlimited Data For Warp VPN",
+        "link": ["https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED"],
+        "starred": false
+      },
+      {
+        "title": "Gluetun - Tunnel your Docker containers through a VPN",
+        "link": ["https://github.com/qdm12/gluetun"],
+        "starred": false
+      },
+      {
+        "title": "PiVPN - Raspberry Pi VPN / GitHub",
+        "link": ["https://pivpn.io/", "https://github.com/pivpn/pivpn"],
+        "starred": false
+      },
+      {
+        "title": "Enterprise - VPN Server",
+        "link": ["https://pritunl.com/"],
+        "starred": false
+      },
+      {
+        "title": "Algo VPN - Cloud VPN",
+        "link": ["https://github.com/trailofbits/algo"],
+        "starred": false
+      },
+      {
+        "title": "Amnezia - Self-hosted VPN",
+        "link": ["https://github.com/amnezia-vpn/desktop-client/"],
+        "starred": false
+      },
+      {
+        "title": "Self-hosted VPN Guide - Self-hosted VPN guide by /u/Kaxry",
+        "link": [
+          "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn"
+        ],
+        "starred": false
+      },
+      {
+        "title": "VPNHotspot - Share VPN Connection over Hotspot",
+        "link": ["https://github.com/Mygod/VPNHotspot"],
+        "starred": false
+      },
+      {
+        "title": "raspberrypiwireguard - Install WireGuard on Raspberry Pi",
+        "link": ["https://github.com/adrianmihalko/raspberrypiwireguard"],
+        "starred": false
+      },
+      {
+        "title": "Killswitch or KillSwitch - Custom VPN Killswitch",
+        "link": [
+          "https://github.com/nologs-vpn/killswitch",
+          "https://github.com/nerfirelia123/KillSwitch"
+        ],
+        "starred": false
+      },
+      {
+        "title": "/r/VPN - VPN Help and Discussion",
+        "link": ["https://reddit.com/r/VPN"],
+        "starred": false
+      },
+      {
+        "title": "OilAndFish - Firewall Bypass Guide",
+        "link": ["https://www.oilandfish.com/"],
+        "starred": false
+      },
+      {
+        "title": "Opera \"VPN\" is a Proxy, Not VPN",
+        "link": [
+          "https://gist.github.com/spaze/558b7c4cd81afa7c857381254ae7bd10"
+        ],
+        "starred": false
+      }
+    ],
+    "subCategory": []
+  },
+  {
+    "title": "Proxy",
+    "links": [],
+    "subCategory": [
+      {
+        "title": "Proxy Apps",
+        "links": [
+          {
+            "title": "Psiphon - Bypass Blocks",
+            "link": [
+              "https://psiphon.ca/",
+              "https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Lantern",
+            "link": ["https://lantern.io/en_US/index.html"],
+            "starred": true
+          },
+          {
+            "title": "Acrylic",
+            "link": ["http://mayakron.altervista.org/"],
+            "starred": false
+          },
+          {
+            "title": "Tsunami",
+            "link": ["https://github.com/FogNetwork/Tsunami"],
+            "starred": false
+          },
+          {
+            "title": "Shadowsocks - Free Servers, 2 / Client",
+            "link": [
+              "https://shadowsocks.org/",
+              "https://github.com/ruanfei/ShadowsocksRRShare",
+              "https://github.com/learnhard-cn/free_proxy_ss",
+              "https://github.com/shadowsocks/shadowsocks-windows"
+            ],
+            "starred": false
+          },
+          {
+            "title": "FilterBypass",
+            "link": ["https://www.filterbypass.me/"],
+            "starred": false
+          },
+          {
+            "title": "Hola Proxy",
+            "link": ["https://github.com/Snawoot/hola-proxy"],
+            "starred": false
+          },
+          {
+            "title": "Hysteria",
+            "link": ["https://github.com/HyNetwork/hysteria"],
+            "starred": false
+          },
+          {
+            "title": "Xray - Telegram",
+            "link": [
+              "https://github.com/XTLS/Xray-core",
+              "https://t.me/projectXray"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Privoxy - Docker Build",
+            "link": [
+              "http://www.privoxy.org/",
+              "https://github.com/binhex/arch-privoxyvpn"
+            ],
+            "starred": false
+          },
+          {
+            "title": "mitmproxy / GitHub - HTTPS Proxy",
+            "link": [
+              "https://mitmproxy.org/",
+              "https://github.com/mitmproxy/mitmproxy"
+            ],
+            "starred": false
+          },
+          {
+            "title": "SwitchyOmega or NginxProxyManager - Proxy Manager",
+            "link": [
+              "https://github.com/FelisCatus/SwitchyOmega",
+              "https://github.com/NginxProxyManager/nginx-proxy-manager"
+            ],
+            "starred": false
+          },
+          {
+            "title": "FoxyProxy, Ambrose or Snowflake - Proxy Browser Extension",
+            "link": [
+              "https://getfoxyproxy.org/",
+              "https://play.google.com/store/apps/details?id=com.ambrose.overwall&gl=US",
+              "https://snowflake.torproject.org/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Fri-Gate - Advanced Proxy Settings Addon",
+            "link": ["https://fri-gate.org/"],
+            "starred": false
+          },
+          {
+            "title": "Proxy Privacy Ruler - Limit Proxy Usage by Private Windows",
+            "link": ["https://github.com/JustOff/proxy-privacy-ruler"],
+            "starred": false
+          },
+          {
+            "title": "Hitch - SSL / TLS Proxy",
+            "link": ["https://hitch-tls.org/"],
+            "starred": false
+          },
+          {
+            "title": "frp or reverse-proxy - Reverse Proxy",
+            "link": [
+              "https://github.com/fatedier/frp",
+              "https://github.com/microsoft/reverse-proxy"
+            ],
+            "starred": false
+          },
+          {
+            "title": "1337x Proxy - 1337x Proxy Guide / Example",
+            "link": ["https://redd.it/tz7nyx", "https://pastebin.com/3n5K0QrP"],
+            "starred": false
+          }
+        ]
+      },
+      {
+        "title": "Proxy Sites",
+        "links": [
+          {
+            "title": "Proxy Lists - Lists of Proxies",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists"
+            ],
+            "starred": true
+          },
+          {
+            "title": "Piracy Site Proxies",
+            "link": [
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies"
+            ],
+            "starred": true
+          },
+          {
+            "title": "HolyUnblocker",
+            "link": ["https://www.holyubofficial.net/"],
+            "starred": true
+          },
+          {
+            "title": "ProxySite",
+            "link": ["https://www.proxysite.com/"],
+            "starred": false
+          },
+          {
+            "title": "GenMirror",
+            "link": ["https://www.genmirror.com/"],
+            "starred": false
+          },
+          {
+            "title": "Hide.me",
+            "link": ["https://hide.me/en/proxy"],
+            "starred": false
+          },
+          {
+            "title": "KProxy",
+            "link": ["https://www.kproxy.com/"],
+            "starred": false
+          },
+          {
+            "title": "Free Proxy",
+            "link": ["https://freeproxy.win/"],
+            "starred": false
+          },
+          {
+            "title": "HyperByte",
+            "link": ["https://hyperbyte.net/"],
+            "starred": false
+          },
+          {
+            "title": "Blockaway",
+            "link": ["https://www.blockaway.net/"],
+            "starred": false
+          },
+          {
+            "title": "VPN Book",
+            "link": ["https://www.vpnbook.com/webproxy"],
+            "starred": false
+          },
+          {
+            "title": "Hidester",
+            "link": ["https://hidester.com/proxy/"],
+            "starred": false
+          },
+          {
+            "title": "Zalmos",
+            "link": ["https://www.zalmos.com/"],
+            "starred": false
+          },
+          {
+            "title": "CroxyProxy",
+            "link": ["https://www.croxyproxy.com/"],
+            "starred": false
+          },
+          {
+            "title": "ProxyPx",
+            "link": ["https://www.proxypx.com/"],
+            "starred": false
+          },
+          {
+            "title": "ProxySite",
+            "link": ["https://www.proxysite.cc/"],
+            "starred": false
+          },
+          {
+            "title": "Sudoproxy",
+            "link": ["https://www.sudoproxy.net/"],
+            "starred": false
+          },
+          {
+            "title": "immortalproxy",
+            "link": ["https://immortalproxy.com/"],
+            "starred": false
+          },
+          {
+            "title": "ProxyOf2",
+            "link": ["https://proxyof2.com/"],
+            "starred": false
+          },
+          {
+            "title": "Proxy-URLs",
+            "link": ["https://www.proxy-urls.com/"],
+            "starred": false
+          },
+          {
+            "title": "HideIP",
+            "link": ["https://m.hideip.co/"],
+            "starred": false
+          },
+          {
+            "title": "Sitenable",
+            "link": ["http://sitenable.in/"],
+            "starred": false
+          },
+          {
+            "title": "UnblockSites",
+            "link": ["https://unblocksites.online/"],
+            "starred": false
+          },
+          {
+            "title": "4EverProxy",
+            "link": ["https://www.4everproxy.com/"],
+            "starred": false
+          },
+          {
+            "title": "Proxy Site",
+            "link": ["https://proxysite.cloud/"],
+            "starred": false
+          },
+          {
+            "title": "AtozProxy",
+            "link": ["https://www.atozproxy.com/"],
+            "starred": false
+          },
+          {
+            "title": "Open Proxy Space",
+            "link": ["https://openproxy.space/"],
+            "starred": false
+          },
+          {
+            "title": "Google Translate - How to use",
+            "link": ["https://translate.google.com/", "https://redd.it/fawkjy"],
+            "starred": false
+          },
+          {
+            "title": "Proxy Scrape - Python Library for Retrieving Free Proxies",
+            "link": ["https://github.com/JaredLGillespie/proxyscrape"],
+            "starred": false
+          },
+          {
+            "title": "Proxy-Checker, Proxy Checker Genius, proxy-scraper, ProxyScraper_v1, What is my Proxy or Socker - Proxy Scrapers / Checkers",
+            "link": [
+              "https://proxy-checker.net/",
+              "https://www.proxychecker.ge/",
+              "https://github.com/iw4p/proxy-scraper",
+              "https://github.com/WTSTiNy/DeCryPt_ProxyScraper_v1",
+              "http://www.whatismyproxy.com/",
+              "https://github.com/TheSpeedX/socker"
+            ],
+            "starred": false
+          },
+          {
+            "title": "CheckSocks5 - Socks5 Proxy Checker",
+            "link": ["https://checksocks5.com/"],
+            "starred": false
+          },
+          {
+            "title": "Proxynova - Iranian Proxies",
+            "link": ["https://www.proxynova.com/proxy-server-list/country-ir/"],
+            "starred": false
+          }
+        ]
+      }
+    ]
+  }
+]

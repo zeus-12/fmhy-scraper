@@ -18,7 +18,7 @@ model Resource {
 model Category {
   id          String        @id @default(cuid())
   title       String
-  link        Link[]
+  links       Link[]
   subCategory SubCategory[]
   resourceId  String?
   Resource    Resource?     @relation(fields: [resourceId], references: [id])
@@ -27,7 +27,7 @@ model Category {
 model SubCategory {
   id         String    @id @default(cuid())
   title      String
-  link       Link[]
+  links      Link[]
   categoryId String?
   Category   Category? @relation(fields: [categoryId], references: [id])
 }
@@ -36,7 +36,7 @@ model Link {
   id            String       @id @default(cuid())
   title         String
   starred       Boolean      @default(false)
-  links         LinkArray[]
+  link          LinkArray[]
   categoryId    String?
   Category      Category?    @relation(fields: [categoryId], references: [id])
   subCategoryId String?

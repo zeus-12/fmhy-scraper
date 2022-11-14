@@ -1,0 +1,578 @@
+[
+  { "title": "VPN Guide", "links": [], "subCategory": [] },
+  {
+    "title": "Torrent Clients",
+    "links": [],
+    "subCategory": [
+      {
+        "title": "WebTorrent Clients",
+        "links": [
+          {
+            "title": "Seedr - Telegram Bot / API Wrapper, 2",
+            "link": [
+              "https://www.seedr.cc/",
+              "https://t.me/TorrentSeedrBot",
+              "https://github.com/theabbie/seedr-api",
+              "https://github.com/AnjanaMadu/SeedrAPI"
+            ],
+            "starred": true
+          },
+          {
+            "title": "webtor",
+            "link": ["https://webtor.io/"],
+            "starred": true
+          },
+          {
+            "title": "Instant.io",
+            "link": ["https://instant.io/"],
+            "starred": false
+          },
+          {
+            "title": "BTorrent",
+            "link": ["https://btorrent.xyz/"],
+            "starred": false
+          },
+          {
+            "title": "Bitport",
+            "link": ["https://bitport.io/welcome"],
+            "starred": false
+          },
+          {
+            "title": "TorrentSafe",
+            "link": ["https://www.torrentsafe.com/"],
+            "starred": false
+          },
+          {
+            "title": "TorrentCheap",
+            "link": ["https://my.torrentcheap.com/"],
+            "starred": false
+          },
+          {
+            "title": "FileStream",
+            "link": ["https://filestream.me/"],
+            "starred": false
+          },
+          {
+            "title": "ZBIGZ",
+            "link": ["https://zbigz.com/"],
+            "starred": false
+          },
+          {
+            "title": "PeerSM",
+            "link": ["https://www.peersm.com/"],
+            "starred": false
+          },
+          {
+            "title": "Magnet Player - Stream Torrents in Browser",
+            "link": ["https://ferrolho.github.io/magnet-player/"],
+            "starred": false
+          },
+          {
+            "title": "JSTorrent - Chrome",
+            "link": ["https://www.jstorrent.com/"],
+            "starred": false
+          },
+          {
+            "title": "BitFord - Chrome",
+            "link": ["https://github.com/astro/bitford"],
+            "starred": false
+          }
+        ]
+      },
+      { "title": "Android Clients", "links": [] },
+      { "title": "iOS Clients", "links": [] }
+    ]
+  },
+  {
+    "title": "Torrent Sites",
+    "links": [],
+    "subCategory": [
+      {
+        "title": "Aggregators",
+        "links": [
+          {
+            "title": "Torrentz2 - Magnet Links",
+            "link": [
+              "https://torrentz2.pics/",
+              "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links"
+            ],
+            "starred": true
+          },
+          {
+            "title": "FileListing",
+            "link": ["https://filelisting.com"],
+            "starred": true
+          },
+          {
+            "title": "snowfl",
+            "link": ["https://snowfl.com/"],
+            "starred": true
+          },
+          {
+            "title": "Knaben",
+            "link": ["https://knaben.eu/"],
+            "starred": true
+          },
+          {
+            "title": "Zooqle",
+            "link": ["https://zooqle.com/"],
+            "starred": false
+          },
+          { "title": "iDope", "link": ["https://idope.se"], "starred": false },
+          {
+            "title": "Bitsearch",
+            "link": ["https://bitsearch.to/"],
+            "starred": false
+          },
+          {
+            "title": "Torrent Finder",
+            "link": ["https://torrent-finder.com/"],
+            "starred": false
+          },
+          {
+            "title": "TorrentDownload",
+            "link": ["https://www.torrentdownload.info/"],
+            "starred": false
+          },
+          {
+            "title": "Toros2",
+            "link": ["https://www.toros2.com/"],
+            "starred": false
+          },
+          {
+            "title": "Dirty Torrents",
+            "link": ["https://dirtytorrents.com/"],
+            "starred": false
+          },
+          {
+            "title": "TorrentQuest",
+            "link": ["https://torrentquest.com/"],
+            "starred": false
+          },
+          {
+            "title": "TorrentHound",
+            "link": ["http://torrenthound.ee/"],
+            "starred": false
+          },
+          {
+            "title": "Torrends",
+            "link": ["https://torrends.to/"],
+            "starred": false
+          },
+          {
+            "title": "CloudTorrents",
+            "link": ["https://cloudtorrents.com/"],
+            "starred": false
+          },
+          { "title": "BTDB", "link": ["https://btdb.eu/"], "starred": false },
+          {
+            "title": "BTMET",
+            "link": ["https://btmet.com/"],
+            "starred": false
+          },
+          { "title": "BT4G", "link": ["https://bt4g.org/"], "starred": false },
+          {
+            "title": "ExtraTorrent",
+            "link": ["https://extratorrent.unblockit.kim/"],
+            "starred": false
+          },
+          {
+            "title": "Torrent Download",
+            "link": ["http://www.torentdownloads.narod.ru/"],
+            "starred": false
+          },
+          {
+            "title": "TorrentMag",
+            "link": ["https://www.torrentmag.net/"],
+            "starred": false
+          },
+          {
+            "title": "Torlook",
+            "link": ["https://gw1.torlook.info/"],
+            "starred": false
+          },
+          {
+            "title": "Torrent.nz",
+            "link": ["https://torrent.nz/"],
+            "starred": false
+          },
+          {
+            "title": "Torrenteer",
+            "link": ["http://torrenteer.ddns.net/"],
+            "starred": false
+          },
+          {
+            "title": "TorrentProject2, 2 / Script (click \"Raw\" to install)",
+            "link": [
+              "https://torrentproject2.com/",
+              "https://torrentproject2.net/",
+              "https://gist.github.com/byzantium225/7cd2287548c81f00dcca923617dcc69e"
+            ],
+            "starred": false
+          },
+          {
+            "title": "ciligou0",
+            "link": ["http://ciligou0.com/"],
+            "starred": false
+          },
+          {
+            "title": "TorrentDB",
+            "link": ["https://torrentdb.li/"],
+            "starred": false
+          },
+          {
+            "title": "0Mag, 2, 3",
+            "link": [
+              "https://www.0mag.net/",
+              "https://9mag.net/",
+              "https://3mag.net/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "TorrentDownloads",
+            "link": ["https://www.torrentdownloads.pro/"],
+            "starred": false
+          },
+          {
+            "title": "Torlock, 2",
+            "link": ["https://www.torlock.com/", "https://www.torlock2.com/"],
+            "starred": false
+          },
+          {
+            "title": "iBit.to, 2, 3",
+            "link": [
+              "https://ibit.to",
+              "https://ibit.am/",
+              "https://ibit.uno/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "TorrentFunk, 2",
+            "link": [
+              "https://www.torrentfunk.com/",
+              "https://www.torrentfunk2.com/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "concen",
+            "link": ["https://www.concen.org/torrents"],
+            "starred": false
+          },
+          {
+            "title": "BTSearch",
+            "link": ["https://www.btsearch.ml/"],
+            "starred": false
+          },
+          {
+            "title": "SolidTorrents - /r/SolidTorrents",
+            "link": [
+              "https://solidtorrents.to/",
+              "https://reddit.com/r/SolidTorrents"
+            ],
+            "starred": false
+          },
+          {
+            "title": "TorrentSeeker",
+            "link": ["https://torrentseeker.com"],
+            "starred": false
+          },
+          {
+            "title": "Torrentzeta",
+            "link": ["https://www.torrentzeta.com/"],
+            "starred": false
+          },
+          {
+            "title": "Toorgle",
+            "link": ["http://www.toorgle.com/"],
+            "starred": false
+          },
+          {
+            "title": "Veoble",
+            "link": ["http://veoble.com/torrent/"],
+            "starred": false
+          },
+          {
+            "title": "BitCQ",
+            "link": ["https://bitcq.com/"],
+            "starred": false
+          },
+          {
+            "title": "TorrentSearchRobot - Telegram Torrent Search",
+            "link": ["https://t.me/TorrentSearchRoBot"],
+            "starred": false
+          },
+          {
+            "title": "Torrents.csv - Torrent CSV Search",
+            "link": ["https://torrents-csv.ml/#/"],
+            "starred": false
+          },
+          {
+            "title": "BTDigg - Torrent DHT Search Engine / .onion",
+            "link": [
+              "https://btdig.com/index.htm",
+              "http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/"
+            ],
+            "starred": false
+          },
+          {
+            "title": "Magnetissimo - Magnet Web App Search",
+            "link": ["https://github.com/sergiotapia/magnetissimo"],
+            "starred": false
+          },
+          {
+            "title": "Torrentinim - Self-Hosted Torrent Search Engine",
+            "link": ["https://github.com/sergiotapia/torrentinim"],
+            "starred": false
+          },
+          {
+            "title": "torrentsearcher_bot, torrenthuntbot or FDTorrentSearchBot - Telegram Torrent Search Bot",
+            "link": [
+              "https://t.me/torrentsearcher_bot",
+              "https://t.me/torrenthuntbot",
+              "https://t.me/FDTorrentSearchBot"
+            ],
+            "starred": false
+          }
+        ]
+      },
+      { "title": "Video Sites", "links": [] },
+      { "title": "Anime Sites", "links": [] },
+      { "title": "Educational Sites", "links": [] },
+      { "title": "Game Sites", "links": [] },
+      { "title": "Audio Sites", "links": [] }
+    ]
+  },
+  {
+    "title": "Tracker Invites",
+    "links": [
+      {
+        "title": "Private Trackers General or Private Trackers Guide - Private Tracker Guides",
+        "link": [
+          "https://rentry.co/private-trackers",
+          "https://wiki.installgentoo.com/wiki/Private_trackers"
+        ],
+        "starred": true
+      },
+      {
+        "title": "TrackerStatus - Tracker Status Updates",
+        "link": ["https://trackerstatus.info/"],
+        "starred": false
+      },
+      {
+        "title": "Scene Related - Warez / Scene Site Index",
+        "link": ["https://opentrackers.org/links/warez-scene/#scenerelated"],
+        "starred": false
+      },
+      {
+        "title": "/r/OpenSignups",
+        "link": ["https://reddit.com/r/OpenSignups"],
+        "starred": false
+      },
+      {
+        "title": "/r/Invites",
+        "link": ["https://reddit.com/r/Invites"],
+        "starred": false
+      },
+      {
+        "title": "MyAnonaMouse - Open Applications",
+        "link": ["https://www.myanonamouse.net/"],
+        "starred": false
+      },
+      {
+        "title": "CinemaZ - Movies / TV / Open Registrations",
+        "link": ["https://cinemaz.to/auth/register"],
+        "starred": false
+      },
+      {
+        "title": "AvistaZ - Asian Movies / TV / Open Registrations",
+        "link": ["https://avistaz.to/auth/register"],
+        "starred": false
+      },
+      {
+        "title": "TheShow - Open Registrations",
+        "link": ["http://theshow.click/"],
+        "starred": false
+      },
+      {
+        "title": "XtremeWrestlingTorrents - Wrestling Private Tracker / Open Registrations",
+        "link": ["http://xtremewrestlingtorrents.net/"],
+        "starred": false
+      },
+      {
+        "title": "hdvinnie - Open Tracker Invites",
+        "link": ["https://hdvinnie.github.io/Private-Trackers-Spreadsheet/"],
+        "starred": false
+      },
+      {
+        "title": "Tracker Tracker - Open Tracker Invites",
+        "link": [
+          "https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "Open for Signup - Open Signups Private Trackers / Telegram",
+        "link": ["https://t.me/opensignup"],
+        "starred": false
+      },
+      {
+        "title": "Bemaniso - Torrent Tracker / Auto Transcode / Upload",
+        "link": [
+          "https://bemaniso.ws/",
+          "https://github.com/doggo404/sowsbetter"
+        ],
+        "starred": false
+      }
+    ],
+    "subCategory": []
+  },
+  {
+    "title": "Helpful Sites / Apps",
+    "links": [
+      {
+        "title": "PreDB / 2 / 3 / 4, PreDB Live, M2V, Xrel or srrDB - Scene Release Tracker",
+        "link": [
+          "https://predb.ovh/",
+          "https://predb.me/",
+          "https://predb.de/",
+          "https://predb.xyz/",
+          "https://predb.live/",
+          "https://m2v.ru/",
+          "https://www.xrel.to/",
+          "https://www.srrdb.com/"
+        ],
+        "starred": true
+      },
+      {
+        "title": "Tracker Lists - Updated lists of BitTorrent trackers",
+        "link": [
+          "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists"
+        ],
+        "starred": true
+      },
+      {
+        "title": "T2M / 2 or Torrent Kitty / 2 / 3 / 4 / 5 - Torrent to Magnet Converter",
+        "link": [
+          "https://nutbread.github.io/t2m/",
+          "https://github.com/nutbread/t2m",
+          "https://www.torrentkitty.tv/",
+          "https://www.torrentkitty.com",
+          "https://www.torrentkitty.net/",
+          "https://www.torrentkitty.lol/",
+          "https://torrentkitty.se/"
+        ],
+        "starred": true
+      },
+      {
+        "title": "Auto Torrent Tools List, FlexGet or /r/softwarr - Autodownload Tools",
+        "link": [
+          "https://redd.it/hbwnb2",
+          "https://flexget.com/",
+          "https://reddit.com/r/softwarr"
+        ],
+        "starred": true
+      },
+      {
+        "title": "Torrent Legality - Torrenting Laws by Country",
+        "link": ["https://i.imgur.com/eNdboCs.png"],
+        "starred": false
+      },
+      {
+        "title": "WarezBot - Discord Scene Release Tracker",
+        "link": ["https://github.com/enzobes/WarezBot"],
+        "starred": false
+      },
+      {
+        "title": "btcache, iTorrents or Torrage - Torrent Storage Cache",
+        "link": [
+          "https://btcache.me/",
+          "https://itorrents.org",
+          "https://torrage.info/"
+        ],
+        "starred": false
+      },
+      {
+        "title": "WebTorrent Checker - Check Health of a Torrent",
+        "link": ["https://checker.openwebtorrent.com/"],
+        "starred": false
+      },
+      {
+        "title": "mgnet or MagLit - Magnet Link Shortener",
+        "link": ["http://mgnet.me/", "https://maglit.me/"],
+        "starred": false
+      },
+      {
+        "title": "RSSFeedz - Torrent RSS Feed",
+        "link": ["https://t.me/rssfeedz"],
+        "starred": false
+      },
+      {
+        "title": "OpenWebTorrent - Free Webtorrent Tracker",
+        "link": ["https://openwebtorrent.com/"],
+        "starred": false
+      },
+      {
+        "title": "AutoDL-Irssi - IRC Channel Monitor / Autodownload / Slack Notifications",
+        "link": [
+          "https://autodl-community.github.io/autodl-irssi/",
+          "https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b"
+        ],
+        "starred": false
+      },
+      {
+        "title": "PrivTracker - Private BitTorrent Tracker Generator / GitHub",
+        "link": [
+          "https://privtracker.tk/",
+          "https://github.com/meehow/privtracker"
+        ],
+        "starred": false
+      },
+      {
+        "title": "AnonSeed - Anonymous Torrent Sharing",
+        "link": ["https://www.anonseed.com/"],
+        "starred": false
+      },
+      {
+        "title": "Torrent-Creator - Browser Torrent Creator",
+        "link": ["https://github.com/Kimbatt/torrent-creator"],
+        "starred": false
+      },
+      {
+        "title": "Torrent Editor or Torrent Parts - Edit Torrents Files",
+        "link": ["http://torrenteditor.com/", "https://torrent.parts/"],
+        "starred": false
+      },
+      {
+        "title": "TorrentOpener - Torrent Metadata Viewer",
+        "link": ["http://www.torrentopener.com/"],
+        "starred": false
+      },
+      {
+        "title": "bittorrent-tracker-editor - Add or Remove Trackers from Torrent Files",
+        "link": [
+          "https://github.com/GerryFerdinandus/bittorrent-tracker-editor"
+        ],
+        "starred": false
+      },
+      {
+        "title": "mktorrent - Metainfo File Creation CLI",
+        "link": ["https://github.com/pobrn/mktorrent"],
+        "starred": false
+      },
+      {
+        "title": "/r/torrents - Torrenting discussion sub",
+        "link": ["https://reddit.com/r/torrents"],
+        "starred": false
+      },
+      {
+        "title": "r/VPNTorrents - For Discussion of Torrenting over VPNs",
+        "link": ["https://reddit.com/r/vpntorrents"],
+        "starred": false
+      }
+    ],
+    "subCategory": []
+  }
+]
