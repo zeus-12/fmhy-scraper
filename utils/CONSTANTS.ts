@@ -26,7 +26,7 @@ export const RESOURCES = [
     urlEnding: "EDUPiracyGuide",
   },
   {
-    title: "Game TOols",
+    title: "Game Tools",
     urlEnding: "Game-Tools",
   },
   {
@@ -38,7 +38,7 @@ export const RESOURCES = [
     urlEnding: "LinuxGuide",
   },
   {
-    title: "MISC GUide",
+    title: "MISC Guide",
     urlEnding: "MISCGuide",
   },
   // {
@@ -55,7 +55,7 @@ export const RESOURCES = [
   },
 
   {
-    title: "Tools Gudie",
+    title: "Tools Guide",
     urlEnding: "TOOLSGuide",
   },
   {
