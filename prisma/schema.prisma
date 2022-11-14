@@ -1,0 +1,51 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["referentialIntegrity"]
+}
+
+datasource db {
+  provider     = "mysql"
+  url          = env("DATABASE_URL")
+  relationMode = "prisma"
+}
+
+model Resource {
+  id       String     @id @default(cuid())
+  title    String
+  category Category[]
+}
+
+model Category {
+  id          String        @id @default(cuid())
+  title       String
+  link        Link[]
+  subCategory SubCategory[]
+  resourceId  String?
+  Resource    Resource?     @relation(fields: [resourceId], references: [id])
+}
+
+model SubCategory {
+  id         String    @id @default(cuid())
+  title      String
+  link       Link[]
+  categoryId String?
+  Category   Category? @relation(fields: [categoryId], references: [id])
+}
+
+model Link {
+  id            String       @id @default(cuid())
+  title         String
+  starred       Boolean      @default(false)
+  links         LinkArray[]
+  categoryId    String?
+  Category      Category?    @relation(fields: [categoryId], references: [id])
+  subCategoryId String?
+  SubCategory   SubCategory? @relation(fields: [subCategoryId], references: [id])
+}
+
+model LinkArray {
+  id     String  @id @default(cuid())
+  link   String
+  Link   Link?   @relation(fields: [linkId], references: [id])
+  linkId String?
+}

@@ -1,0 +1,22 @@
+{
+  "name": "fmhy-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "tsc -w",
+    "start": "node dist/src/index.js",
+    "dev": "nodemon dist/src/index.js"
+  },
+  "dependencies": {
+    "@prisma/client": "4.6.1",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "prisma": "^4.6.1",
+    "typescript": "^4.8.4"
+  }
+}
