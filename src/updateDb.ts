@@ -1,55 +1,54 @@
-import { prisma } from "../utils/prisma";
-import { CategoryType } from "../utils/types";
+import prisma from "../utils/prisma";
+import { CategoryType, SubCategoryType } from "../utils/types";
 
 export default async function updateDb(
   resource: CategoryType[],
   resourceTitle: string
 ): Promise<void> {
   resource.map(async (ele) => {
-    const resourceData = await prisma.resource.create({
+    let resourceData = await prisma.resource.create({
       data: {
         title: resourceTitle,
       },
     });
 
-    let linkData = {};
-    if (ele.links.length > 0) {
-      linkData = {
-        create: ele.links.map((item) => ({
-          title: item.title,
-          starred: false,
-          link: {
-            create: item.link.map((inner) => ({
-              link: inner,
-            })),
-          },
-        })),
-      };
-    }
-
-    await prisma.category.create({
+    let categoryData = await prisma.category.create({
       data: {
         resourceId: resourceData.id,
         title: ele.title,
-        links: linkData,
-        subCategory: {
-          // @ts-ignore
-          create: ele.subCategory.map((sub) => ({
-            title: sub.title,
-            links: {
-              create: sub.links.map((inner) => ({
-                title: inner.title,
-                starred: inner.starred,
-                link: {
-                  create: inner.link.map((innerinner) => ({
-                    link: innerinner,
-                  })),
-                },
-              })),
-            },
-          })),
-        },
+        ...getLinkData(ele),
       },
+    });
+
+    ele.subCategory.map(async (sub) => {
+      await prisma.subCategory.create({
+        data: {
+          categoryId: categoryData.id,
+          title: sub.title,
+          ...getLinkData(sub),
+        },
+      });
     });
   });
 }
+
+const getLinkData = (ele: CategoryType | SubCategoryType) => {
+  let linkData = {};
+  if (ele.links.length > 0) {
+    linkData = {
+      create: ele.links.map((item) => ({
+        title: item.title,
+        starred: item.starred,
+        link: {
+          create: item.link?.map((inner) => ({
+            url: inner,
+          })),
+        },
+      })),
+    };
+  } else {
+    return {};
+  }
+
+  return { links: linkData };
+};
