@@ -1,52 +1,51 @@
 generator client {
   provider        = "prisma-client-js"
-  previewFeatures = ["referentialIntegrity"]
 }
 
 datasource db {
-  provider          = "mysql"
+  provider          = "postgresql"
   url               = env("DATABASE_URL")
-  shadowDatabaseUrl = env("SHADOW_URL")
+  // shadowDatabaseUrl = env("SHADOW_URL")
   relationMode      = "prisma"
 }
 
-model Resource {
-  id       String     @id @default(cuid())
-  title    String
-  category Category[]
-}
+// model Resource {
+//   id       String     @id @default(cuid())
+//   title    String
+//   category Category[]
+// }
 
-model Category {
-  id          String        @id @default(cuid())
-  title       String
-  links       Link[]
-  subCategory SubCategory[]
-  resourceId  String?
-  Resource    Resource?     @relation(fields: [resourceId], references: [id])
-}
+// model Category {
+//   id          String        @id @default(cuid())
+//   title       String
+//   links       Link[]
+//   subCategory SubCategory[]
+//   resourceId  String?
+//   Resource    Resource?     @relation(fields: [resourceId], references: [id])
+// }
 
-model SubCategory {
-  id         String    @id @default(cuid())
-  title      String
-  links      Link[]
-  categoryId String?
-  Category   Category? @relation(fields: [categoryId], references: [id])
-}
+// model SubCategory {
+//   id         String    @id @default(cuid())
+//   title      String
+//   links      Link[]
+//   categoryId String?
+//   Category   Category? @relation(fields: [categoryId], references: [id])
+// }
 
 model Link {
-  id            String       @id @default(cuid())
+  id            String      @id @default(cuid())
   title         String
   starred       Boolean      @default(false)
-  link          LinkArray[]
-  categoryId    String?
-  Category      Category?    @relation(fields: [categoryId], references: [id])
-  subCategoryId String?
-  SubCategory   SubCategory? @relation(fields: [subCategoryId], references: [id])
+  link          String[]
+  // categoryId    String?
+  // Category      Category?    @relation(fields: [categoryId], references: [id])
+  // subCategoryId String?
+  // SubCategory   SubCategory? @relation(fields: [subCategoryId], references: [id])
 }
 
-model LinkArray {
-  id     String  @id @default(cuid())
-  url    String
-  Link   Link?   @relation(fields: [linkId], references: [id])
-  linkId String?
-}
+// model LinkArray {
+//   id     String  @id @default(cuid())
+//   url    String
+//   Link   Link?   @relation(fields: [linkId], references: [id])
+//   linkId String?
+// }
