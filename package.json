@@ -8,7 +8,7 @@
     "start": "node dist/src/index.js",
     "scrape-parse": "node dist/src/parse-array.js",
     "dev": "nodemon dist/src/index.js",
-    "scrape": "nodemon dist/src/links-only-scrape.js"
+    "scrape": "nodemon dist/src/scrape.js"
   },
   "dependencies": {
     "@prisma/client": "^4.7.1",
