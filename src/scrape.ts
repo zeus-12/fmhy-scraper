@@ -3,6 +3,8 @@ import fetch from "node-fetch";
 import { currentEle, prettifyTitle } from "../utils/helper";
 import { LinkType, CategoryType } from "../utils/types";
 
+// to get the scraped data in the format of CategoryType[]
+
 async function get_links(
   $: cheerio.CheerioAPI,
   children: cheerio.Cheerio<cheerio.Element>,

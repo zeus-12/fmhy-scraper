@@ -8,17 +8,18 @@
     "start": "node dist/src/index.js",
     "scrape-parse": "node dist/src/parse-array.js",
     "dev": "nodemon dist/src/index.js",
-    "scrape": "nodemon dist/src/scrape.js"
+    "scrape": "nodemon dist/src/scrape.js",
+    "short": "node dist/src/link-only-scrapper-fn.js"
   },
   "dependencies": {
     "@prisma/client": "^4.7.1",
-    "@types/node-cron": "^3.0.6",
     "cheerio": "^1.0.0-rc.12",
     "node-cron": "^3.0.2",
     "node-fetch": "^2.6.6",
     "nodemon": "^2.0.20"
   },
   "devDependencies": {
+    "@types/node-cron": "^3.0.6",
     "@types/node": "^18.11.9",
     "@types/node-fetch": "^2.6.2",
     "prisma": "^4.7.1",

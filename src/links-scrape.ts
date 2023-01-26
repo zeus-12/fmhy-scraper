@@ -2,6 +2,9 @@ import * as cheerio from "cheerio";
 import fetch from "node-fetch";
 import { currentEle, prettifyTitle } from "../utils/helper";
 import { LinkType, CategoryType } from "../utils/types";
+import * as fs from "fs";
+
+// to scrape just the links
 
 async function get_links(
   $: cheerio.CheerioAPI,
@@ -69,5 +72,12 @@ export default async function scrape(urlEnding: string) {
       i += 1;
     }
   }
+  fs.writeFile("data.json", JSON.stringify(res), (err) => {
+    if (err) {
+      console.error(err);
+      return;
+    }
+    console.log("File has been created");
+  });
   return res;
 }
