@@ -1,10 +1,8 @@
-export interface LinkArrayType {
-  link: string[];
-}
 export interface LinkType {
   title: string;
-  link: LinkArrayType[];
+  link: string[];
   starred: boolean;
+  isNsfw: boolean;
 }
 
 export interface SubCategoryType {

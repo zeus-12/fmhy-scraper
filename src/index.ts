@@ -1,21 +1,9 @@
-import { RESOURCES } from "../utils/CONSTANTS";
-import scrape from "./scrape";
-import updateDb from "./updateDb";
-import { clean } from "../utils/helper";
-import cron from "node-cron"
+import scrapeBase64AndAddToDb from "./scrapers/base64";
+import scrapeAndAddToDb from "./scrapers/wiki";
 
-const script = async () => {
-  // await clean();
-  RESOURCES.map(async (resource) => {
-    const scrapedData = await scrape(resource.urlEnding);
-
-    await updateDb(scrapedData, resource.title);
-  });
+const main = async () => {
+  await scrapeAndAddToDb();
+  // await scrapeBase64AndAddToDb();
 };
 
-cron.schedule("0 0 * * 0", async() => {
-  await clean()
-  await script();
-});
-
-
+main().catch((err) => console.error(err.message));
