@@ -1,5 +1,5 @@
-import { LinkType } from "../../utils/types";
-import prisma from "../../utils/prisma";
+import { LinkType } from "@/utils/types";
+import prisma from "@/utils/prisma";
 
 const addLinksToDb = async (data_: LinkType[]) => {
   // reset links table

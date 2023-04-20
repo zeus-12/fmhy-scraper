@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 import * as cheerio from "cheerio";
 import fs from "fs";
-import { LinkType } from "utils/types";
+import { LinkType } from "@/utils/types";
 
 export let currentEle = (tag: string, data: any) => data.is(tag);
 

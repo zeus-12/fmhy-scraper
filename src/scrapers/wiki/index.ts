@@ -1,6 +1,6 @@
 import scrape from "./scraper";
-import { RESOURCES } from "../../utils/CONSTANTS";
-import { LinkType } from "../../utils/types";
+import { RESOURCES } from "@/utils/CONSTANTS";
+import { LinkType } from "@/utils/types";
 import addLinksToDb from "./db";
 
 export const scrapeWiki = async () => {
