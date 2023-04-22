@@ -27,3 +27,18 @@ export const logLinks = (data: LinkType[]) => {
     JSON.stringify(data)
   );
 };
+
+// import * as GuidesBackup from "../backup/guides.json";
+// import prisma from "../utils/prisma";
+
+// export const addGuidesBackupToDb = async () => {
+//   await prisma.guides.createMany({
+//     data: GuidesBackup.data.map((guide) => ({
+//       title: guide.title,
+//       link: guide.link,
+//       credits: guide.credits || "",
+//       nsfw: guide.nsfw || false,
+//       tags: JSON.stringify(guide.tags || []),
+//     })),
+//   });
+// };

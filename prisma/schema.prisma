@@ -23,7 +23,7 @@ model Base64 {
 
 model Guides {
   id      String  @id @default(cuid())
-  credits String  @default("[]") @db.LongText
+  credits String
   link    String
   nsfw    Boolean @default(false)
   tags    String  @default("[]")
