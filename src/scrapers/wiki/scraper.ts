@@ -1,6 +1,10 @@
 import * as cheerio from "cheerio";
-import { currentEle, getCheerioDocument, prettifyTitle } from "@/utils/helper";
-import { CategoryType, LinkType } from "@/utils/types";
+import {
+  currentEle,
+  getCheerioDocument,
+  prettifyTitle,
+} from "../../utils/helper";
+import { CategoryType, LinkType } from "../../utils/types";
 
 async function get_links(
   $: cheerio.CheerioAPI,

@@ -1,4 +1,4 @@
-import { currentEle, getCheerioDocument } from "@/utils/helper";
+import { currentEle, getCheerioDocument } from "../../utils/helper";
 
 export async function base64_scraper() {
   const { $, markdown } = await getCheerioDocument("base64");

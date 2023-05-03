@@ -1,14 +1,18 @@
-import { LinkType } from "@/utils/types";
-import prisma from "@/utils/prisma";
+import { LinkType } from "../../utils/types";
+import prisma from "../../utils/prisma";
 
 const addLinksToDb = async (data_: LinkType[]) => {
-  // reset links table
-  await prisma.link.createMany({
-    data: data_.map((item) => ({
-      title: item.title,
-      starred: item.starred,
-      link: JSON.stringify(item.link),
-    })),
+  // await prisma.wiki.deleteMany({});
+  await prisma.wiki.createMany({
+    data: data_.map((item, i) => {
+      console.log(item, i);
+      return {
+        title: item.title,
+        // starred: item.starred,
+        link: JSON.stringify(item.link),
+        nsfw: item.isNsfw,
+      };
+    }),
   });
 };
 
