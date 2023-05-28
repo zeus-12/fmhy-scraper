@@ -1,8 +1,9 @@
-import addBase64LinksToDb from "./db";
+import { addBase64LinksToDb, removeAllBase64LinksFromDb } from "./db";
 import { base64_scraper } from "./scraper";
 
 const scrapeBase64AndAddToDb = async () => {
-  console.log("---SCRAPING LINKS----");
+  await removeAllBase64LinksFromDb();
+  console.log("---SCRAPING BASE64 LINKS----");
   const data = await base64_scraper();
   console.log("---WRITING " + data.length + " LINKS TO DB----");
   await addBase64LinksToDb(data);

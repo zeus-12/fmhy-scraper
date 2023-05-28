@@ -22,7 +22,8 @@ export async function base64_scraper() {
         atob(hash);
       } catch (err) {
         console.log(hash + " is not base64❗️");
-        throw err;
+        i++;
+        continue;
       }
 
       finalData.push({ title, hash });

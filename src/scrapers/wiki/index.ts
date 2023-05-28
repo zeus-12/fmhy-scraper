@@ -1,7 +1,7 @@
 import scrape from "./scraper";
 import { RESOURCES } from "../../utils/CONSTANTS";
 import { LinkType } from "../../utils/types";
-import addLinksToDb from "./db";
+import { addLinksToDb, removeAllWikiLinksFromDb } from "./db";
 
 export const scrapeWiki = async () => {
   let data: LinkType[] = [];
@@ -27,6 +27,8 @@ export const scrapeWiki = async () => {
 };
 
 const scrapeAndAddToDb = async () => {
+  await removeAllWikiLinksFromDb();
+
   console.log("---SCRAPING LINKS----");
   const data = await scrapeWiki();
   console.log("---WRITING " + data.length + " LINKS TO DB----");

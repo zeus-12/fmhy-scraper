@@ -1,6 +1,8 @@
 import prisma from "../../utils/prisma";
 
-const addBase64LinksToDb = async (data: any) => {
+export const addBase64LinksToDb = async (
+  data: { title: string; hash: string }[]
+) => {
   await prisma?.base64.createMany({
     data: data.map((item: { title: string; hash: string }) => {
       return {
@@ -10,4 +12,7 @@ const addBase64LinksToDb = async (data: any) => {
     }),
   });
 };
-export default addBase64LinksToDb;
+
+export const removeAllBase64LinksFromDb = async () => {
+  await prisma.base64.deleteMany({});
+};

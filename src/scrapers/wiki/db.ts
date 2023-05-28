@@ -1,11 +1,9 @@
 import { LinkType } from "../../utils/types";
 import prisma from "../../utils/prisma";
 
-const addLinksToDb = async (data_: LinkType[]) => {
-  // await prisma.wiki.deleteMany({});
+export const addLinksToDb = async (data_: LinkType[]) => {
   await prisma.wiki.createMany({
-    data: data_.map((item, i) => {
-      console.log(item, i);
+    data: data_.map((item) => {
       return {
         title: item.title,
         // starred: item.starred,
@@ -16,4 +14,6 @@ const addLinksToDb = async (data_: LinkType[]) => {
   });
 };
 
-export default addLinksToDb;
+export const removeAllWikiLinksFromDb = async () => {
+  await prisma.wiki.deleteMany({});
+};
