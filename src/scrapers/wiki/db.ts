@@ -6,7 +6,7 @@ export const addLinksToDb = async (data_: LinkType[]) => {
     data: data_.map((item) => {
       return {
         title: item.title,
-        // starred: item.starred,
+        starred: item.starred,
         link: JSON.stringify(item.link),
         nsfw: item.isNsfw,
       };

@@ -6,10 +6,11 @@
   "scripts": {
     "watch": "tsc -w",
     "start": "node dist/index.js",
-    "dev": "nodemon dist/index.js"
+    "dev": "nodemon dist/index.js",
+    "devv": "tsx watch ./src/scrapers/wiki-v2/index.ts"
   },
   "dependencies": {
-    "@prisma/client": "^4.13.0",
+    "@prisma/client": "5",
     "cheerio": "^1.0.0-rc.12",
     "node-cron": "^3.0.2",
     "node-fetch": "^2.6.6",
@@ -19,7 +20,8 @@
     "@types/node": "^18.11.9",
     "@types/node-cron": "^3.0.6",
     "@types/node-fetch": "^2.6.2",
-    "prisma": "^4.13.0",
+    "prisma": "5",
+    "tsx": "^3.12.7",
     "typescript": "^4.8.4"
   }
 }

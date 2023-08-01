@@ -1,9 +1,9 @@
 export const RESOURCES = [
-  {
-    title: "Home",
-    urlEnding: "Home",
-    // emoji: "👋",
-  },
+  // {
+  //   title: "Home",
+  //   urlEnding: "Home",
+  //   // emoji: "👋",
+  // },
   {
     title: "Adblock, Privacy",
     urlEnding: "AdblockVPNGuide",
@@ -105,4 +105,4 @@ export const RESOURCES = [
   },
 ];
 
-// DOESN'T WORK FOR AI, STORAGE
+// DOESN'T WORK FOR STORAGE

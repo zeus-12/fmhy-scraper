@@ -14,8 +14,6 @@ export const scrapeWiki = async () => {
       scrapedData = [];
       if (resource.urlEnding === "STORAGE") {
         // scrapedData = await storage_scraper(isShort);
-      } else if (resource.urlEnding === "AI") {
-        // scrapedData = await ai_scraper(isShort);
       } else {
         scrapedData = await scrape(resource.urlEnding, isShort);
       }
@@ -27,12 +25,15 @@ export const scrapeWiki = async () => {
 };
 
 const scrapeAndAddToDb = async () => {
+  console.log("---DELETING OLD LINKS----");
   await removeAllWikiLinksFromDb();
 
   console.log("---SCRAPING LINKS----");
   const data = await scrapeWiki();
+
   console.log("---WRITING " + data.length + " LINKS TO DB----");
   await addLinksToDb(data);
+
   console.log("---DONE WRITING LINKS----");
 };
 
