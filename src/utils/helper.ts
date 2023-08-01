@@ -10,10 +10,15 @@ export const prettifyTitle = (data: any, textToRemove: string) => {
 };
 
 export const getCheerioDocument = async (urlEnding: string) => {
-  const html = await fetch(
+  const res = await fetch(
     `https://github.com/nbats/FMHYedit/blob/main/${urlEnding}.md`
   );
-  const text = await html.text();
+
+  const data = await res.json();
+  const text = data?.payload?.blob?.richText;
+  if (!text) {
+    throw new Error("No text found");
+  }
 
   const $ = cheerio.load(text);
 
