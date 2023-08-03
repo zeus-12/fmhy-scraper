@@ -1,5 +1,7 @@
 # fmhy-scraper
 
+## moved to [Fmhy Repo](https://github.com/zeus-12/fmhy)
+
 A cron-job which scrapes the github page of FMHY, and update the db periodically.
 
 - to setup, run `yarn watch` on one terminal and `yarn start` on another.
